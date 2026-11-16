@@ -1,0 +1,6720 @@
+{
+  "version": 1,
+  "updated": "2026-11-16T15:52:21.823Z",
+  "series": {
+    "app:40700": {
+      "title": "机械迷城 (Machinarium)",
+      "days": {
+        "2026-11-16": {
+          "cny": 12.9,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:5175310": {
+      "title": "我带过的最差一届",
+      "days": {
+        "2026-11-16": {
+          "cny": 16,
+          "usd": null
+        }
+      }
+    },
+    "app:3321460": {
+      "title": "红色沙漠：增强版",
+      "days": {
+        "2026-11-16": {
+          "cny": 1,
+          "usd": null
+        }
+      }
+    },
+    "app:4459590": {
+      "title": "转运军团 - Slotbound",
+      "days": {
+        "2026-11-16": {
+          "cny": 34,
+          "usd": null
+        }
+      }
+    },
+    "app:2406770": {
+      "title": "Bodycam",
+      "days": {
+        "2026-11-16": {
+          "cny": 102.4,
+          "usd": null
+        }
+      }
+    },
+    "app:5200620": {
+      "title": "Dungeonbound",
+      "days": {
+        "2026-11-16": {
+          "cny": 37.8,
+          "usd": null
+        }
+      }
+    },
+    "app:227300": {
+      "title": "Euro Truck Simulator 2",
+      "days": {
+        "2026-11-16": {
+          "cny": 5,
+          "usd": null
+        }
+      }
+    },
+    "app:3816120": {
+      "title": "重生2我独自逆袭",
+      "days": {
+        "2026-11-16": {
+          "cny": 33,
+          "usd": null
+        }
+      }
+    },
+    "app:1211600": {
+      "title": "隔离区-丧尸末日生存",
+      "days": {
+        "2026-11-16": {
+          "cny": 9.8,
+          "usd": null
+        }
+      }
+    },
+    "app:728880": {
+      "title": "Overcooked! 2",
+      "days": {
+        "2026-11-16": {
+          "cny": 0.1,
+          "usd": null
+        }
+      }
+    },
+    "app:5458210": {
+      "title": "How They Built the Pyramids",
+      "days": {
+        "2026-11-16": {
+          "cny": 15.4,
+          "usd": null
+        }
+      }
+    },
+    "app:4607090": {
+      "title": "Impossible Wonders",
+      "days": {
+        "2026-11-16": {
+          "cny": 13.5,
+          "usd": null
+        }
+      }
+    },
+    "app:5203560": {
+      "title": "Rock and Found",
+      "days": {
+        "2026-11-16": {
+          "cny": 43.2,
+          "usd": null
+        }
+      }
+    },
+    "app:5503640": {
+      "title": "Apartment 3502 | 3502号室",
+      "days": {
+        "2026-11-16": {
+          "cny": 13.5,
+          "usd": null
+        }
+      }
+    },
+    "app:4170680": {
+      "title": "Survidle Knight",
+      "days": {
+        "2026-11-16": {
+          "cny": 10.4,
+          "usd": null
+        }
+      }
+    },
+    "app:4786650": {
+      "title": "Who Gave Them Weapons",
+      "days": {
+        "2026-11-16": {
+          "cny": 25.2,
+          "usd": null
+        }
+      }
+    },
+    "app:3230780": {
+      "title": "Ultimate Rally 2D",
+      "days": {
+        "2026-11-16": {
+          "cny": 39.99,
+          "usd": null
+        }
+      }
+    },
+    "app:2868840": {
+      "title": "Slay the Spire 2",
+      "days": {
+        "2026-11-16": {
+          "cny": 60,
+          "usd": null
+        }
+      }
+    },
+    "app:5510810": {
+      "title": "Off the Table!",
+      "days": {
+        "2026-11-16": {
+          "cny": 12.75,
+          "usd": null
+        }
+      }
+    },
+    "app:4929330": {
+      "title": "PRIEST",
+      "days": {
+        "2026-11-16": {
+          "cny": 22.4,
+          "usd": null
+        }
+      }
+    },
+    "app:4531360": {
+      "title": "Orcthal",
+      "days": {
+        "2026-11-16": {
+          "cny": 27.2,
+          "usd": null
+        }
+      }
+    },
+    "app:4626060": {
+      "title": "Cosmic Carl",
+      "days": {
+        "2026-11-16": {
+          "cny": 10.4,
+          "usd": null
+        }
+      }
+    },
+    "app:4162090": {
+      "title": "DragonFire: Defense",
+      "days": {
+        "2026-11-16": {
+          "cny": 13.2,
+          "usd": null
+        }
+      }
+    },
+    "app:4402530": {
+      "title": "Chrono Cards",
+      "days": {
+        "2026-11-16": {
+          "cny": 39.84,
+          "usd": null
+        }
+      }
+    },
+    "app:2349110": {
+      "title": "Lunar Wardens",
+      "days": {
+        "2026-11-16": {
+          "cny": 12.8,
+          "usd": null
+        }
+      }
+    },
+    "app:4483900": {
+      "title": "直到高塔崩塌",
+      "days": {
+        "2026-11-16": {
+          "cny": 24.5,
+          "usd": null
+        }
+      }
+    },
+    "app:3595710": {
+      "title": "ScopeCreep",
+      "days": {
+        "2026-11-16": {
+          "cny": 17.6,
+          "usd": null
+        }
+      }
+    },
+    "app:4321920": {
+      "title": "Topdeck Automat",
+      "days": {
+        "2026-11-16": {
+          "cny": 38.4,
+          "usd": null
+        }
+      }
+    },
+    "app:4171850": {
+      "title": "Trees Hate You",
+      "days": {
+        "2026-11-16": {
+          "cny": 24.36,
+          "usd": null
+        }
+      }
+    },
+    "app:5364830": {
+      "title": "Crack the Bills",
+      "days": {
+        "2026-11-16": {
+          "cny": 20.59,
+          "usd": null
+        }
+      }
+    },
+    "app:4996910": {
+      "title": "毁灭之巢",
+      "days": {
+        "2026-11-16": {
+          "cny": 24.3,
+          "usd": null
+        }
+      }
+    },
+    "app:5126080": {
+      "title": "Archronica",
+      "days": {
+        "2026-11-16": {
+          "cny": 15,
+          "usd": null
+        }
+      }
+    },
+    "app:4984370": {
+      "title": "Of Dice and Minions",
+      "days": {
+        "2026-11-16": {
+          "cny": 37.8,
+          "usd": null
+        }
+      }
+    },
+    "app:3634320": {
+      "title": "要塞vs要塞",
+      "days": {
+        "2026-11-16": {
+          "cny": 29.4,
+          "usd": null
+        }
+      }
+    },
+    "app:5363180": {
+      "title": "Tinselwood",
+      "days": {
+        "2026-11-16": {
+          "cny": 31.5,
+          "usd": null
+        }
+      }
+    },
+    "app:5490620": {
+      "title": "The Game Beneath",
+      "days": {
+        "2026-11-16": {
+          "cny": 17.1,
+          "usd": null
+        }
+      }
+    },
+    "app:1423330": {
+      "title": "横戈",
+      "days": {
+        "2026-11-16": {
+          "cny": 10,
+          "usd": null
+        }
+      }
+    },
+    "app:4787460": {
+      "title": "喂食之器",
+      "days": {
+        "2026-11-16": {
+          "cny": 21.6,
+          "usd": null
+        }
+      }
+    },
+    "app:4276810": {
+      "title": "Dice Looter",
+      "days": {
+        "2026-11-16": {
+          "cny": 23.8,
+          "usd": null
+        }
+      }
+    },
+    "app:5510800": {
+      "title": "Super Clown Traps",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.8,
+          "usd": null
+        }
+      }
+    },
+    "app:5468650": {
+      "title": "Cozy Cat Room：与猫咪共度的专注时光",
+      "days": {
+        "2026-11-16": {
+          "cny": 23.8,
+          "usd": null
+        }
+      }
+    },
+    "app:3669160": {
+      "title": "涂岛 Tool Land",
+      "days": {
+        "2026-11-16": {
+          "cny": 16.2,
+          "usd": null
+        }
+      }
+    },
+    "app:5485190": {
+      "title": "灯火与灵契",
+      "days": {
+        "2026-11-16": {
+          "cny": 27.9,
+          "usd": null
+        }
+      }
+    },
+    "app:773370": {
+      "title": "Exo One",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.54
+        }
+      }
+    },
+    "app:2132890": {
+      "title": "Possessor(s)",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:418460": {
+      "title": "Rising Storm 2: Vietnam",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.49
+        }
+      }
+    },
+    "app:413410": {
+      "title": "Danganronpa: Trigger Happy Havoc",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.8,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:1449200": {
+      "title": "AI: THE SOMNIUM FILES - nirvanA Initiative",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 5.99
+        }
+      }
+    },
+    "app:331480": {
+      "title": "Pinstripe",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:245450": {
+      "title": "Wizardry 8",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:1430680": {
+      "title": "Clash - Artifacts of Chaos",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.7,
+          "usd": 2.53
+        }
+      }
+    },
+    "app:594130": {
+      "title": "Winds of Change",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:207690": {
+      "title": "Botanicula",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:956030": {
+      "title": "Creaks",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.99
+        }
+      }
+    },
+    "app:1496590": {
+      "title": "Tchia",
+      "days": {
+        "2026-11-16": {
+          "cny": 9.8,
+          "usd": 3.49
+        }
+      }
+    },
+    "app:1206060": {
+      "title": "Happy Game",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:1029690": {
+      "title": "Sniper Elite 5",
+      "days": {
+        "2026-11-16": {
+          "cny": 13.8,
+          "usd": 4.99
+        }
+      }
+    },
+    "app:203140": {
+      "title": "Hitman Absolution",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:13560": {
+      "title": "Tom Clancy's Splinter Cell",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.49
+        }
+      }
+    },
+    "app:717610": {
+      "title": "A Case of Distrust",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:3900": {
+      "title": "Sid Meier's Civilization IV",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.99
+        }
+      }
+    },
+    "app:1049280": {
+      "title": "Pilgrims",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.39
+        }
+      }
+    },
+    "app:512790": {
+      "title": "Quern - Undying Thoughts",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.49
+        }
+      }
+    },
+    "app:206190": {
+      "title": "Gunpoint",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:421120": {
+      "title": "Samorost 3",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.99
+        }
+      }
+    },
+    "app:312660": {
+      "title": "Sniper Elite 4",
+      "days": {
+        "2026-11-16": {
+          "cny": 15.8,
+          "usd": 5.99
+        }
+      }
+    },
+    "app:4560": {
+      "title": "Company of Heroes",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:475550": {
+      "title": "Beholder",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.6,
+          "usd": 1.39
+        }
+      }
+    },
+    "app:269670": {
+      "title": "BADLAND: Game of the Year Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:312780": {
+      "title": "Way of the Samurai 4",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.49
+        }
+      }
+    },
+    "app:1766100": {
+      "title": "The Last Hero of Nostalgaia",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.99
+        }
+      }
+    },
+    "app:49520": {
+      "title": "Borderlands 2",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:501590": {
+      "title": "Bulletstorm: Full Clip Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.99
+        }
+      }
+    },
+    "app:252130": {
+      "title": "Divide By Sheep",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.49
+        }
+      }
+    },
+    "app:477740": {
+      "title": "Zero Escape: The Nonary Games",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 5.99
+        }
+      }
+    },
+    "app:1161490": {
+      "title": "MotoGP20",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:866140": {
+      "title": "Arise: A Simple Story",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.28
+        }
+      }
+    },
+    "app:268130": {
+      "title": "Heat Signature",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:3929740": {
+      "title": "Tom Clancys Splinter Cell Pandora Tomorrow",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.49
+        }
+      }
+    },
+    "app:598550": {
+      "title": "Huntdown",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.99
+        }
+      }
+    },
+    "app:207140": {
+      "title": "SpeedRunners",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:5130120": {
+      "title": "Evenicle - Next Fragment Medica",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 25.99
+        }
+      }
+    },
+    "app:1619520": {
+      "title": "Cross Blitz",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 5.74
+        }
+      }
+    },
+    "app:505640": {
+      "title": "Antihero",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:238370": {
+      "title": "Magicka 2",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:477770": {
+      "title": "Ride 2",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.49
+        }
+      }
+    },
+    "app:523780": {
+      "title": "Emily is Away Too",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:527230": {
+      "title": "For The King",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:446800": {
+      "title": "Transport Fever",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:1553000": {
+      "title": "War Hospital",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:13540": {
+      "title": "Tom Clancy's Rainbow Six Vegas",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.49
+        }
+      }
+    },
+    "app:917840": {
+      "title": "Wintermoor Tactics Club",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:2247570": {
+      "title": "Don Duality",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.24
+        }
+      }
+    },
+    "app:1342620": {
+      "title": "Werewolf: the Apocalypse - Heart of the Forest",
+      "days": {
+        "2026-11-16": {
+          "cny": 5,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:597170": {
+      "title": "Clone Drone in the Danger Zone",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.99
+        }
+      }
+    },
+    "app:2138710": {
+      "title": "Sifu",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 9.99
+        }
+      }
+    },
+    "app:1062340": {
+      "title": "KATANA KAMI: A Way of the Samurai Story",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:408520": {
+      "title": "FORM",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.74
+        }
+      }
+    },
+    "app:1203710": {
+      "title": "UnMetal",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:1924360": {
+      "title": "Lil Guardsman",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.99
+        }
+      }
+    },
+    "app:774241": {
+      "title": "Warhammer: Chaosbane",
+      "days": {
+        "2026-11-16": {
+          "cny": 8.8,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:237950": {
+      "title": "UFO: Afterlight",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.39
+        }
+      }
+    },
+    "app:648168": {
+      "title": "Middle-earth: The Shadow Bundle",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 7.49
+        }
+      }
+    },
+    "app:466140": {
+      "title": "The LEGO Games Bundle",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 12.99
+        }
+      }
+    },
+    "app:1364100": {
+      "title": "Lacuna  A Sci-Fi Noir Adventure",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.59
+        }
+      }
+    },
+    "t:falloutfranchisebundle": {
+      "title": "Fallout Franchise Bundle",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 21.95
+        }
+      }
+    },
+    "app:241600": {
+      "title": "Rogue Legacy",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:1293170": {
+      "title": "Bzzzt",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.39
+        }
+      }
+    },
+    "t:fallout4gameoftheyeareditionandtheelderscrollsvskyrimanniversaryedition": {
+      "title": "Fallout 4: Game of the Year Edition and The Elder Scrolls V: Skyrim Anniversary Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 21.45
+        }
+      }
+    },
+    "app:676630": {
+      "title": "Attentat 1942",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.89
+        }
+      }
+    },
+    "app:613470": {
+      "title": "The Inner World - The Last Wind Monk",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.8,
+          "usd": 1.99
+        }
+      }
+    },
+    "t:battletechmercenarycollection": {
+      "title": "BATTLETECH Mercenary Collection",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 22.49
+        }
+      }
+    },
+    "app:274520": {
+      "title": "Darkwood",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:1060600": {
+      "title": "Lair of the Clockwork God",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:673880": {
+      "title": "Warhammer 40,000: Mechanicus",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:418240": {
+      "title": "Shadow Tactics: Blades of the Shogun",
+      "days": {
+        "2026-11-16": {
+          "cny": 16,
+          "usd": 3.99
+        }
+      }
+    },
+    "app:1371690": {
+      "title": "GRAVEN",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.74
+        }
+      }
+    },
+    "app:699670": {
+      "title": "Feudal Alloy",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.69
+        }
+      }
+    },
+    "app:585450": {
+      "title": "Shadows: Awakening",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:597180": {
+      "title": "Old World",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.9,
+          "usd": 3.99
+        }
+      }
+    },
+    "t:milanoir": {
+      "title": "Milanoir",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.03
+        }
+      }
+    },
+    "app:684410": {
+      "title": "Bridge Constructor Portal",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.78,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:8000": {
+      "title": "Tomb Raider: Anniversary",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.99
+        }
+      }
+    },
+    "t:darkfuturebloodredstates": {
+      "title": "Dark Future: Blood Red States",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.49
+        }
+      }
+    },
+    "app:1681430": {
+      "title": "RoboCop: Rogue City",
+      "days": {
+        "2026-11-16": {
+          "cny": 13.6,
+          "usd": 3.99
+        }
+      }
+    },
+    "app:1676910": {
+      "title": "Onde",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.39
+        }
+      }
+    },
+    "app:556060": {
+      "title": "Detective Gallo",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:323190": {
+      "title": "Frostpunk",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.2,
+          "usd": 2.39
+        }
+      }
+    },
+    "app:205650": {
+      "title": "The Testament of Sherlock Holmes",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:115800": {
+      "title": "Owlboy",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:274350": {
+      "title": "Dropsy",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.99
+        }
+      }
+    },
+    "t:distrust": {
+      "title": "Distrust",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.29
+        }
+      }
+    },
+    "app:1153640": {
+      "title": "Chorus",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.49
+        }
+      }
+    },
+    "app:933820": {
+      "title": "Endzone - A World Apart",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:609320": {
+      "title": "FAR: Lone Sails",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:461950": {
+      "title": "Beat Cop",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.8,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:700160": {
+      "title": "Semblance",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": 0.79
+        }
+      }
+    },
+    "t:theelderscrollsfranchisebundle": {
+      "title": "The Elder Scrolls Franchise Bundle",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 26.09
+        }
+      }
+    },
+    "app:542050": {
+      "title": "Forgotton Anne",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.19
+        }
+      }
+    },
+    "app:1252830": {
+      "title": "A Jugglers Tale",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.79
+        }
+      }
+    },
+    "app:1162130": {
+      "title": "Windbound",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:941570": {
+      "title": "Relicta",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:573120": {
+      "title": "Dead in Vinland",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:13600": {
+      "title": "Prince of Persia: The Sands of Time",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:8140": {
+      "title": "Tomb Raider: Underworld",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:1385100": {
+      "title": "Insurmountable",
+      "days": {
+        "2026-11-16": {
+          "cny": 9.9,
+          "usd": 2.49
+        }
+      }
+    },
+    "app:1309620": {
+      "title": "Bears in Space",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:1336120": {
+      "title": "Bridge Constructor The Walking Dead",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.78,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:307670": {
+      "title": "Hard West",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.84,
+          "usd": 1.48
+        }
+      }
+    },
+    "app:1736290": {
+      "title": "Crime OClock",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:978300": {
+      "title": "Saints Row The Third Remastered",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:1710540": {
+      "title": "Fall of Porcupine",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:1016770": {
+      "title": "Interrogation: You Will Be Deceived",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.29
+        }
+      }
+    },
+    "app:7000": {
+      "title": "Tomb Raider: Legend",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.99
+        }
+      }
+    },
+    "t:fallout": {
+      "title": "Fallout",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.49
+        }
+      }
+    },
+    "t:frostpunkthelastautumn": {
+      "title": "Frostpunk: The Last Autumn",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.54
+        }
+      }
+    },
+    "app:1383700": {
+      "title": "Jet Kave Adventure",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.19
+        }
+      }
+    },
+    "app:1175840": {
+      "title": "Whateverland",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:900270": {
+      "title": "Reventure",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.85
+        }
+      }
+    },
+    "app:1186640": {
+      "title": "Pumpkin Jack",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.56,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:979110": {
+      "title": "Space Haven",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 9.99
+        }
+      }
+    },
+    "app:244160": {
+      "title": "Homeworld Remastered Collection",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 5.08
+        }
+      }
+    },
+    "t:deadisland2ultimateedition": {
+      "title": "Dead Island 2 Ultimate Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 6.99
+        }
+      }
+    },
+    "t:egosoftcollection": {
+      "title": "Egosoft Collection",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 17.99
+        }
+      }
+    },
+    "app:571310": {
+      "title": "SteamWorld Dig 2",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:322190": {
+      "title": "SteamWorld Heist",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:91200": {
+      "title": "Anomaly: Warzone Earth",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.79
+        }
+      }
+    },
+    "app:241910": {
+      "title": "Goodbye Deponia",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:1726120": {
+      "title": "Cursed to Golf",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:220740": {
+      "title": "Chaos on Deponia",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:234270": {
+      "title": "Ken Follett's The Pillars of the Earth",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:1291860": {
+      "title": "Rough Justice: 84",
+      "days": {
+        "2026-11-16": {
+          "cny": 8,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:1283410": {
+      "title": "Tails of Iron",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.24
+        }
+      }
+    },
+    "app:236730": {
+      "title": "Anomaly 2",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.19
+        }
+      }
+    },
+    "app:252410": {
+      "title": "SteamWorld Dig",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:421050": {
+      "title": "Deponia Doomsday",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:1067540": {
+      "title": "Roki",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:1108590": {
+      "title": "Eldest Souls",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "t:badmojo": {
+      "title": "Bad Mojo",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.59
+        }
+      }
+    },
+    "app:214340": {
+      "title": "Deponia",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:203830": {
+      "title": "The Dark Eye: Chains of Satinav",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:230820": {
+      "title": "The Night of the Rabbit",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:219910": {
+      "title": "Edna and Harvey: Harvey's New Eyes",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:626660": {
+      "title": "Flipping Death",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:337480": {
+      "title": "Zombie Vikings",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.19
+        }
+      }
+    },
+    "app:330020": {
+      "title": "Children of Morta",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.52
+        }
+      }
+    },
+    "app:327220": {
+      "title": "Anna's Quest",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:447120": {
+      "title": "Where The Water Tastes Like Wine",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": 1.59
+        }
+      }
+    },
+    "app:751820": {
+      "title": "Black Future '88",
+      "days": {
+        "2026-11-16": {
+          "cny": 8.8,
+          "usd": 1.59
+        }
+      }
+    },
+    "app:105000": {
+      "title": "A New Beginning - Final Cut",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:899310": {
+      "title": "Iron Danger",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:1004370": {
+      "title": "Paper Cut Mansion",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:530950": {
+      "title": "Tower 57",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.9,
+          "usd": 1.19
+        }
+      }
+    },
+    "app:410710": {
+      "title": "System Shock: Enhanced Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:351920": {
+      "title": "Crazy Machines 3",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:919410": {
+      "title": "Felix The Reaper",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:260160": {
+      "title": "The Last Tinker: City of Colors",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:1608230": {
+      "title": "Planet of Lana",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:294750": {
+      "title": "Anomaly Defenders",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.6,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:294370": {
+      "title": "Crowntakers",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:339190": {
+      "title": "Dead Synchronicity: Tomorrow Comes Today",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.8,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:548370": {
+      "title": "Rezrog",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:1158890": {
+      "title": "White Shadows",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:1376760": {
+      "title": "Life of Delta",
+      "days": {
+        "2026-11-16": {
+          "cny": 8,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:351910": {
+      "title": "Valhalla Hills",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.69
+        }
+      }
+    },
+    "app:363600": {
+      "title": "Holy Potatoes! A Weapon Shop?!",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:768450": {
+      "title": "NUTS",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:357030": {
+      "title": "Excubitor",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:331870": {
+      "title": "AER  Memories of Old",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.9,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:366910": {
+      "title": "The Long Journey Home",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:263860": {
+      "title": "SPACECOM",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.6,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:437630": {
+      "title": "State of Mind",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:4411720": {
+      "title": "Pro Basketball Manager 2027",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 25.54
+        }
+      }
+    },
+    "app:2161620": {
+      "title": "Lysfanga: The Time Shift Warrior",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.8,
+          "usd": 1.68
+        }
+      }
+    },
+    "app:721180": {
+      "title": "Dustborn",
+      "days": {
+        "2026-11-16": {
+          "cny": 10.8,
+          "usd": 2.59
+        }
+      }
+    },
+    "app:312840": {
+      "title": "Fahrenheit: Indigo Prophecy Remastered",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": 0.89
+        }
+      }
+    },
+    "app:242110": {
+      "title": "Joe Danger 2: The Movie",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.8,
+          "usd": 1.35
+        }
+      }
+    },
+    "app:1222140": {
+      "title": "Detroit: Become Human",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 6.59
+        }
+      }
+    },
+    "app:262060": {
+      "title": "Darkest Dungeon",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.08
+        }
+      }
+    },
+    "app:990630": {
+      "title": "The Last Campfire",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.8,
+          "usd": 1.35
+        }
+      }
+    },
+    "app:1498570": {
+      "title": "THE KING OF FIGHTERS XV",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 6.89
+        }
+      }
+    },
+    "app:632470": {
+      "title": "Disco Elysium - The Final Cut",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 7.99
+        }
+      }
+    },
+    "app:286690": {
+      "title": "Metro 2033 Redux",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:611670": {
+      "title": "The Elder Scrolls V: Skyrim VR",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 12.59
+        }
+      }
+    },
+    "app:944430": {
+      "title": "The Last Friend",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.19
+        }
+      }
+    },
+    "app:934700": {
+      "title": "Dead Island 2",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.99
+        }
+      }
+    },
+    "app:1815570": {
+      "title": "Aces and Adventures",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": 1.59
+        }
+      }
+    },
+    "app:282070": {
+      "title": "This War of Mine",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": 1.59
+        }
+      }
+    },
+    "app:235540": {
+      "title": "Warhammer: End Times - Vermintide",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.39
+        }
+      }
+    },
+    "app:209190": {
+      "title": "Stealth Bastard Deluxe",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.74
+        }
+      }
+    },
+    "app:1076200": {
+      "title": "Roguebook",
+      "days": {
+        "2026-11-16": {
+          "cny": 114,
+          "usd": 1.37
+        }
+      }
+    },
+    "t:necromundaunderhivewars": {
+      "title": "Necromunda: Underhive Wars",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.79
+        }
+      }
+    },
+    "app:638000": {
+      "title": "When Ski Lifts Go Wrong",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.12
+        }
+      }
+    },
+    "app:742420": {
+      "title": "Saints Row",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.49
+        }
+      }
+    },
+    "app:261470": {
+      "title": "Distant Worlds: Universe",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.39
+        }
+      }
+    },
+    "t:joedangerandjoedanger2themoviebundle": {
+      "title": "Joe Danger and Joe Danger 2: The Movie Bundle",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.49
+        }
+      }
+    },
+    "app:489830": {
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 7.19
+        }
+      }
+    },
+    "app:433340": {
+      "title": "Slime Rancher",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.59
+        }
+      }
+    },
+    "app:694280": {
+      "title": "Zombie Army 4: Dead War",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:384110": {
+      "title": "Pathologic Classic HD",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.2,
+          "usd": 1.03
+        }
+      }
+    },
+    "app:2933200": {
+      "title": "Tukoni: Forest Keepers",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 6.69
+        }
+      }
+    },
+    "app:1267540": {
+      "title": "WRC 9 FIA World Rally Championship",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.19
+        }
+      }
+    },
+    "t:slimesan": {
+      "title": "Slime-San",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.19
+        }
+      }
+    },
+    "app:940680": {
+      "title": "The Textorcist: The Story of Ray Bibbia",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.06,
+          "usd": 1.19
+        }
+      }
+    },
+    "app:889910": {
+      "title": "Hell Pie",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:921800": {
+      "title": "Encased: A Sci-Fi Post-Apocalyptic RPG",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:1045720": {
+      "title": "The Coma 2: Vicious Sisters",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.19
+        }
+      }
+    },
+    "app:205100": {
+      "title": "Dishonored",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.24
+        }
+      }
+    },
+    "app:22300": {
+      "title": "Fallout 3",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.24
+        }
+      }
+    },
+    "app:2228030": {
+      "title": "Dr. Fetus Mean Meat Machine",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.78,
+          "usd": 0.79
+        }
+      }
+    },
+    "app:1582680": {
+      "title": "Trolley Problem, Inc.",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.6,
+          "usd": 0.87
+        }
+      }
+    },
+    "app:612880": {
+      "title": "Wolfenstein II: The New Colossus",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 5.59
+        }
+      }
+    },
+    "app:910630": {
+      "title": "Arcade Spirits",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.79
+        }
+      }
+    },
+    "app:1095120": {
+      "title": "Helheim Hassle",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:1004750": {
+      "title": "WRC 8 FIA World Rally Championship",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": 2.39
+        }
+      }
+    },
+    "app:436000": {
+      "title": "Lovely Planet Arcade",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.59
+        }
+      }
+    },
+    "app:1730080": {
+      "title": "Beyond the Long Night",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.8,
+          "usd": 1.43
+        }
+      }
+    },
+    "app:3499790": {
+      "title": "Ashes of the Singularity II",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 25.91
+        }
+      }
+    },
+    "t:borderlands3superdeluxeeditionepic": {
+      "title": "Borderlands 3 Super Deluxe Edition (EPIC)",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 12
+        }
+      }
+    },
+    "t:borderlands3superdeluxeedition": {
+      "title": "Borderlands 3 Super Deluxe Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 12
+        }
+      }
+    },
+    "t:il2sturmoviktankcrewclashatprokhorovka": {
+      "title": "IL-2 Sturmovik: Tank Crew - Clash at Prokhorovka",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 16.4
+        }
+      }
+    },
+    "app:332250": {
+      "title": "The Next Penelope",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.3
+        }
+      }
+    },
+    "app:808090": {
+      "title": "Bury me, my Love",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.49
+        }
+      }
+    },
+    "app:223730": {
+      "title": "Fly'N",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1
+        }
+      }
+    },
+    "app:1517180": {
+      "title": "Mindcop",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:11200": {
+      "title": "Shadowgrounds Survivor",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1
+        }
+      }
+    },
+    "app:811270": {
+      "title": "Impulsion",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.29
+        }
+      }
+    },
+    "app:390720": {
+      "title": "Anarcute",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.5
+        }
+      }
+    },
+    "app:446840": {
+      "title": "Splasher",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:1051410": {
+      "title": "Wanderlust Travel Stories",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.5
+        }
+      }
+    },
+    "t:borderlands3ultimateedition": {
+      "title": "Borderlands 3: Ultimate Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 18.71
+        }
+      }
+    },
+    "t:reddeadredemption2ultimateedition": {
+      "title": "Red Dead Redemption 2: Ultimate Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 20
+        }
+      }
+    },
+    "app:1057800": {
+      "title": "Floppy Knights",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.2
+        }
+      }
+    },
+    "app:493540": {
+      "title": "Figment",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2
+        }
+      }
+    },
+    "app:874260": {
+      "title": "The Forgotten City",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.1
+        }
+      }
+    },
+    "app:829280": {
+      "title": "Kaze and the Wild Masks",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.5
+        }
+      }
+    },
+    "app:814360": {
+      "title": "Mythic Ocean",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.46
+        }
+      }
+    },
+    "app:1085220": {
+      "title": "Figment 2: Creed Valley",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.5
+        }
+      }
+    },
+    "app:809240": {
+      "title": "Vandals",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.5
+        }
+      }
+    },
+    "app:2500": {
+      "title": "Shadowgrounds",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.7
+        }
+      }
+    },
+    "app:417290": {
+      "title": "Ghost of a Tale",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2
+        }
+      }
+    },
+    "app:1634080": {
+      "title": "Nocturnal",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.69
+        }
+      }
+    },
+    "app:1620720": {
+      "title": "The Forest Quartet",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1
+        }
+      }
+    },
+    "app:838110": {
+      "title": "HyperParasite",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.8
+        }
+      }
+    },
+    "app:323580": {
+      "title": "Jotun: Valhalla Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.25
+        }
+      }
+    },
+    "app:368080": {
+      "title": "Aurion: Legacy of the Kori-Odan",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.99
+        }
+      }
+    },
+    "app:297060": {
+      "title": "Freaking Meatbags",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1
+        }
+      }
+    },
+    "t:wrc7": {
+      "title": "WRC 7",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2
+        }
+      }
+    },
+    "app:966670": {
+      "title": "The Wanderer: Frankensteins Creature",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.6
+        }
+      }
+    },
+    "app:1175460": {
+      "title": "Revita",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.69
+        }
+      }
+    },
+    "app:619700": {
+      "title": "Steel Rats",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1
+        }
+      }
+    },
+    "app:690640": {
+      "title": "Trine 4: The Nightmare Prince",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:618970": {
+      "title": "Outcast - Second Contact",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.29
+        }
+      }
+    },
+    "app:301560": {
+      "title": "White Night",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.5
+        }
+      }
+    },
+    "app:458770": {
+      "title": "WRC 6 FIA World Rally Championship",
+      "days": {
+        "2026-11-16": {
+          "cny": 5,
+          "usd": 1.5
+        }
+      }
+    },
+    "t:ttisleofman": {
+      "title": "TT Isle of Man",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2
+        }
+      }
+    },
+    "app:968370": {
+      "title": "The Blind Prophet",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2
+        }
+      }
+    },
+    "app:986310": {
+      "title": "Recompile",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:435100": {
+      "title": "2Dark",
+      "days": {
+        "2026-11-16": {
+          "cny": 14.9,
+          "usd": 2.5
+        }
+      }
+    },
+    "app:1546710": {
+      "title": "Vernal Edge",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.69
+        }
+      }
+    },
+    "app:1037020": {
+      "title": "ScourgeBringer",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.69
+        }
+      }
+    },
+    "app:581270": {
+      "title": "Old Man's Journey",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.56
+        }
+      }
+    },
+    "app:1121780": {
+      "title": "Astria Ascending",
+      "days": {
+        "2026-11-16": {
+          "cny": 10.3,
+          "usd": 3.49
+        }
+      }
+    },
+    "app:269330": {
+      "title": "Chronology",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.5
+        }
+      }
+    },
+    "app:1419160": {
+      "title": "Souldiers",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:1438480": {
+      "title": "Saviorless",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.29
+        }
+      }
+    },
+    "app:402060": {
+      "title": "Californium",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.7
+        }
+      }
+    },
+    "t:samurairiot": {
+      "title": "Samurai Riot",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.2
+        }
+      }
+    },
+    "app:1662480": {
+      "title": "Nuclear Blaze",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.5
+        }
+      }
+    },
+    "app:359230": {
+      "title": "Lethis - Path of Progress",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2
+        }
+      }
+    },
+    "app:397540": {
+      "title": "Borderlands 3",
+      "days": {
+        "2026-11-16": {
+          "cny": 19.9,
+          "usd": 5.77
+        }
+      }
+    },
+    "app:396750": {
+      "title": "Everspace",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.8,
+          "usd": 1.8
+        }
+      }
+    },
+    "app:293940": {
+      "title": "Kill The Bad Guy",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.5
+        }
+      }
+    },
+    "app:1288410": {
+      "title": "Outshine",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.13
+        }
+      }
+    },
+    "app:3093400": {
+      "title": "Knightica",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0
+        }
+      }
+    },
+    "t:cocreatestories": {
+      "title": "Co-create Stories",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.99
+        }
+      }
+    },
+    "app:2051120": {
+      "title": "HOT WHEELS UNLEASHED 2 - Turbocharged",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 5.99
+        }
+      }
+    },
+    "app:2909400": {
+      "title": "FINAL FANTASY VII REBIRTH",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 7.49
+        }
+      }
+    },
+    "t:cozyhomeunpacking": {
+      "title": "Cozy Home Unpacking",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "t:motelrenovatorsimulator": {
+      "title": "Motel Renovator Simulator",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.89
+        }
+      }
+    },
+    "app:3077390": {
+      "title": "MotoGP25",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 9.99
+        }
+      }
+    },
+    "app:593280": {
+      "title": "Cat Quest",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.24
+        }
+      }
+    },
+    "app:850190": {
+      "title": "Goat Simulator 3",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 8.99
+        }
+      }
+    },
+    "app:1839940": {
+      "title": "Dakar Desert Rally",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 5.99
+        }
+      }
+    },
+    "app:771700": {
+      "title": "Airhead",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.99
+        }
+      }
+    },
+    "t:forspokendigitaldeluxeedition": {
+      "title": "Forspoken Digital Deluxe Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 28.49
+        }
+      }
+    },
+    "t:worldofwarshipsninghaipack": {
+      "title": "World of Warships  Ning Hai Pack",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.13
+        }
+      }
+    },
+    "t:sherlockholmestheawakeneddeluxeedition": {
+      "title": "Sherlock Holmes The Awakened Deluxe Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.99
+        }
+      }
+    },
+    "t:pegsolitaireplus": {
+      "title": "Peg Solitaire Plus",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.32
+        }
+      }
+    },
+    "app:1524630": {
+      "title": "KeepUp Survival",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "t:fixandflipdreamhouse": {
+      "title": "Fix and Flip Dream House",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.89
+        }
+      }
+    },
+    "t:rusticfarmlife": {
+      "title": "Rustic Farm Life",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.74
+        }
+      }
+    },
+    "t:fatalfurycityofthewolveslegendedition": {
+      "title": "FATAL FURY: City of the Wolves Legend Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 9.99
+        }
+      }
+    },
+    "t:dakardesertrallyseasonpass": {
+      "title": "Dakar Desert Rally - Season Pass",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 5.99
+        }
+      }
+    },
+    "t:hotwheelsunleashed2seasonpassvol1": {
+      "title": "HOT WHEELS UNLEASHED 2 - Season Pass Vol. 1",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 5.99
+        }
+      }
+    },
+    "t:hotwheelsunleashed2seasonpassvol2": {
+      "title": "HOT WHEELS UNLEASHED 2 - Season Pass Vol. 2",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 5.99
+        }
+      }
+    },
+    "app:686810": {
+      "title": "Hell Let Loose",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 12.49
+        }
+      }
+    },
+    "t:pawbay": {
+      "title": "Pawbay",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 9.99
+        }
+      }
+    },
+    "t:thelostonthestreetgoldedition": {
+      "title": "The Lost On The Street: Gold Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.99
+        }
+      }
+    },
+    "t:ride5seasonpass": {
+      "title": "RIDE 5 - Season Pass",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 7.99
+        }
+      }
+    },
+    "t:portsolanocitygangsterwar": {
+      "title": "Port Solano City: Gangster War",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:1650010": {
+      "title": "RIDE 5",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 9.99
+        }
+      }
+    },
+    "t:hotamericandream": {
+      "title": "Hot American Dream",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.49
+        }
+      }
+    },
+    "app:1396190": {
+      "title": "DEEXIT Eternal Matters",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.99
+        }
+      }
+    },
+    "t:fellinlovewithacaliforniagirl": {
+      "title": "Fell in Love with a California Girl",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.59
+        }
+      }
+    },
+    "app:3102290": {
+      "title": "Big Buck Hunter: Ultimate Trophy",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 9.99
+        }
+      }
+    },
+    "app:1992640": {
+      "title": "Anime vs Evil: Apocalypse",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.74
+        }
+      }
+    },
+    "app:2095420": {
+      "title": "Bus Bound",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 19.79
+        }
+      }
+    },
+    "t:dakardesertrallylegendspack": {
+      "title": "Dakar Desert Rally - Legends Pack",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "t:meganoid": {
+      "title": "Meganoid",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "t:bulbsandswitches": {
+      "title": "Bulbs and Switches",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.84
+        }
+      }
+    },
+    "t:sengodai": {
+      "title": "Sengodai",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.99
+        }
+      }
+    },
+    "t:goatsimulator3digitaldowngrade": {
+      "title": "Goat Simulator 3 - Digital Downgrade",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.79
+        }
+      }
+    },
+    "t:finalfantasyviirebirthdigitaldeluxeeditionupgrade": {
+      "title": "FINAL FANTASY VII REBIRTH Digital Deluxe Edition Upgrade",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3
+        }
+      }
+    },
+    "t:ummoyoun": {
+      "title": "Umm Oyoun",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.12
+        }
+      }
+    },
+    "app:2231190": {
+      "title": "Magical Delicacy",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 13.74
+        }
+      }
+    },
+    "app:1937880": {
+      "title": "Hank: Drowning On Dry Land",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.24
+        }
+      }
+    },
+    "t:ranchsimulatorsouthwestranchandfarmexpansionpack": {
+      "title": "Ranch Simulator: Southwest Ranch and Farm Expansion Pack",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.94
+        }
+      }
+    },
+    "app:1012360": {
+      "title": "Gunslugs : Rogue Tactics",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.94
+        }
+      }
+    },
+    "app:2487300": {
+      "title": "Docked",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 19.79
+        }
+      }
+    },
+    "app:1850960": {
+      "title": "The Jackbox Party Pack 9",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 16.49
+        }
+      }
+    },
+    "app:3810510": {
+      "title": "DERELIKT",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 17.99
+        }
+      }
+    },
+    "t:tetword": {
+      "title": "TETWORD",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.95
+        }
+      }
+    },
+    "t:finalfantasyviirebirthdigitaldeluxeedition": {
+      "title": "FINAL FANTASY VII REBIRTH Digital Deluxe Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 10.49
+        }
+      }
+    },
+    "t:ravenfordthelastravenwarden": {
+      "title": "Ravenford: The Last Raven Warden",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:2515020": {
+      "title": "FINAL FANTASY XVI",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 19.99
+        }
+      }
+    },
+    "t:keepupsurvivaltropicalislandmap": {
+      "title": "KeepUp Survival - Tropical Island Map",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.79
+        }
+      }
+    },
+    "t:keepupsurvivalreddesertmap": {
+      "title": "KeepUp Survival - Red Desert Map",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.79
+        }
+      }
+    },
+    "app:2708790": {
+      "title": "Together After Dark",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.14
+        }
+      }
+    },
+    "t:superstoresimulator": {
+      "title": "Superstore Simulator",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.19
+        }
+      }
+    },
+    "app:1250760": {
+      "title": "Far Away",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 7.99
+        }
+      }
+    },
+    "app:1951410": {
+      "title": "WE ARE FOOTBALL 2024",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 19.99
+        }
+      }
+    },
+    "t:hyperwarehousesimulator": {
+      "title": "Hyper Warehouse Simulator",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.39
+        }
+      }
+    },
+    "t:tmntsplinteredfategoldedition": {
+      "title": "TMNT: Splintered Fate - Gold Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 11.99
+        }
+      }
+    },
+    "t:thekingoffightersxivsteameditiondeluxepack": {
+      "title": "THE KING OF FIGHTERS XIV STEAM EDITION DELUXE PACK",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 9.38
+        }
+      }
+    },
+    "t:testdriveunlimitedsolarcrowngoldedition": {
+      "title": "Test Drive Unlimited Solar Crown  Gold Edition",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 12.85
+        }
+      }
+    },
+    "app:276810": {
+      "title": "Mordheim: City of the Damned",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.7
+        }
+      }
+    },
+    "app:699170": {
+      "title": "Fell Seal: Arbiter's Mark",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.99
+        }
+      }
+    },
+    "app:1502560": {
+      "title": "The Smurfs - Mission Vileaf",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.2,
+          "usd": 1.7
+        }
+      }
+    },
+    "app:1154790": {
+      "title": "XIII",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.2,
+          "usd": 1.7
+        }
+      }
+    },
+    "app:216910": {
+      "title": "Of Orcs and Men",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.29
+        }
+      }
+    },
+    "app:1658920": {
+      "title": "Crown Wars: The Black Prince",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.71
+        }
+      }
+    },
+    "app:940580": {
+      "title": "FIA European Truck Racing Championship",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.53
+        }
+      }
+    },
+    "app:1234430": {
+      "title": "Ad Infinitum",
+      "days": {
+        "2026-11-16": {
+          "cny": 10.5,
+          "usd": 2.94
+        }
+      }
+    },
+    "app:1283400": {
+      "title": "Steelrising",
+      "days": {
+        "2026-11-16": {
+          "cny": 10.9,
+          "usd": 4.17
+        }
+      }
+    },
+    "app:960990": {
+      "title": "Beyond: Two Souls",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.8,
+          "usd": 1.68
+        }
+      }
+    },
+    "app:779290": {
+      "title": "Stygian: Reign of the Old Ones",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.59
+        }
+      }
+    },
+    "app:960910": {
+      "title": "Heavy Rain",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.8,
+          "usd": 1.68
+        }
+      }
+    },
+    "app:1975440": {
+      "title": "Under The Waves",
+      "days": {
+        "2026-11-16": {
+          "cny": 10.8,
+          "usd": 2.59
+        }
+      }
+    },
+    "app:281610": {
+      "title": "Homeworld: Deserts of Kharak",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.85
+        }
+      }
+    },
+    "app:2602020": {
+      "title": "The Smurfs - Dreams",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 6.23
+        }
+      }
+    },
+    "app:220440": {
+      "title": "DMC - Devil May Cry",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 6.99
+        }
+      }
+    },
+    "app:261640": {
+      "title": "Borderlands: The Pre-Sequel",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.92
+        }
+      }
+    },
+    "t:giftofparthax": {
+      "title": "Gift of Parthax",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.98
+        }
+      }
+    },
+    "app:2511800": {
+      "title": "Dead in Antares",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 8.11
+        }
+      }
+    },
+    "app:1399700": {
+      "title": "Kapital Sparks of Revolution",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.7
+        }
+      }
+    },
+    "app:1399690": {
+      "title": "Reverie Knights Tactics",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.7
+        }
+      }
+    },
+    "app:1620730": {
+      "title": "Hell Is Us",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 11.99
+        }
+      }
+    },
+    "app:1334730": {
+      "title": "Dread Templar",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.59
+        }
+      }
+    },
+    "app:200230": {
+      "title": "Off-Road Drive",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.72
+        }
+      }
+    },
+    "app:1000410": {
+      "title": "WRATH: Aeon of Ruin",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.45
+        }
+      }
+    },
+    "app:1174180": {
+      "title": "Red Dead Redemption 2",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 15.31
+        }
+      }
+    },
+    "app:1470390": {
+      "title": "City of Beats",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.63
+        }
+      }
+    },
+    "app:1286320": {
+      "title": "Exoprimal",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 8.88
+        }
+      }
+    },
+    "app:525040": {
+      "title": "The Disney Afternoon Collection",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.73
+        }
+      }
+    },
+    "app:12150": {
+      "title": "Max Payne 2: The Fall of Max Payne",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.47
+        }
+      }
+    },
+    "t:everspaceencounters": {
+      "title": "EVERSPACE - Encounters",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.5
+        }
+      }
+    },
+    "app:351940": {
+      "title": "The Descendant",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.53
+        }
+      }
+    },
+    "app:1590910": {
+      "title": "Forgive me Father",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.45
+        }
+      }
+    },
+    "app:412020": {
+      "title": "Metro Exodus",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.49
+        }
+      }
+    },
+    "app:510390": {
+      "title": "Unknown Fate",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.38
+        }
+      }
+    },
+    "app:861650": {
+      "title": "Session : Skate Sim",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 8.11
+        }
+      }
+    },
+    "app:46370": {
+      "title": "Rig n Roll",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.94
+        }
+      }
+    },
+    "app:1889740": {
+      "title": "Paper Trail",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 5.4
+        }
+      }
+    },
+    "app:916140": {
+      "title": "The Tale of Bistun",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.28
+        }
+      }
+    },
+    "app:228300": {
+      "title": "Remember Me",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 5.63
+        }
+      }
+    },
+    "app:243800": {
+      "title": "Gas Guzzlers Extreme",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.49
+        }
+      }
+    },
+    "app:1163060": {
+      "title": "The Making of Karateka",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 5.28
+        }
+      }
+    },
+    "app:1011670": {
+      "title": "Totally Reliable Delivery Service",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.29
+        }
+      }
+    },
+    "app:1170080": {
+      "title": "Foretales",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:2131010": {
+      "title": "The Land Beneath Us",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.24
+        }
+      }
+    },
+    "app:1555140": {
+      "title": "Born of Bread",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.49
+        }
+      }
+    },
+    "app:970830": {
+      "title": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 3.49
+        }
+      }
+    },
+    "app:1096410": {
+      "title": "Vampire: The Masquerade - Coteries of New York",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "t:skabmasnowfall": {
+      "title": "Skabma - Snowfall",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.99
+        }
+      }
+    },
+    "app:858710": {
+      "title": "Gravity Circuit",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.24
+        }
+      }
+    },
+    "app:537800": {
+      "title": "Bomber Crew",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.39
+        }
+      }
+    },
+    "app:606150": {
+      "title": "Moonlighter",
+      "days": {
+        "2026-11-16": {
+          "cny": 7,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:405820": {
+      "title": "Turok",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.59
+        }
+      }
+    },
+    "app:1347970": {
+      "title": "Patch Quest",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:815370": {
+      "title": "Green Hell",
+      "days": {
+        "2026-11-16": {
+          "cny": 8,
+          "usd": 4.39
+        }
+      }
+    },
+    "app:596620": {
+      "title": "Gas Guzzlers - Combat Carnage",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 0.49
+        }
+      }
+    },
+    "app:1279630": {
+      "title": "Vampire The Masquerade - Shadows of New York",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.29
+        }
+      }
+    },
+    "app:1128920": {
+      "title": "EVERSPACE 2",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 8.88
+        }
+      }
+    },
+    "app:383270": {
+      "title": "Hue",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 2.99
+        }
+      }
+    },
+    "app:520670": {
+      "title": "Strikers Edge",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 1.49
+        }
+      }
+    },
+    "app:1040420": {
+      "title": "Dreamscaper",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.99
+        }
+      }
+    },
+    "app:1374840": {
+      "title": "Dark Deity",
+      "days": {
+        "2026-11-16": {
+          "cny": null,
+          "usd": 4.99
+        }
+      }
+    },
+    "t:我带过的最差一届": {
+      "title": "我带过的最差一届",
+      "days": {
+        "2026-11-16": {
+          "cny": 18.2,
+          "usd": null
+        }
+      }
+    },
+    "t:黎明行者之血": {
+      "title": "黎明行者之血",
+      "days": {
+        "2026-11-16": {
+          "cny": 238.4,
+          "usd": null
+        }
+      }
+    },
+    "t:隔离区丧尸末日生存": {
+      "title": "隔离区-丧尸末日生存",
+      "days": {
+        "2026-11-16": {
+          "cny": 28.8,
+          "usd": null
+        }
+      }
+    },
+    "t:墙世界战略": {
+      "title": "墙世界 战略",
+      "days": {
+        "2026-11-16": {
+          "cny": 59,
+          "usd": null
+        }
+      }
+    },
+    "t:奇点灰烬2": {
+      "title": "奇点灰烬2",
+      "days": {
+        "2026-11-16": {
+          "cny": 110,
+          "usd": null
+        }
+      }
+    },
+    "t:战锤幸存者": {
+      "title": "战锤幸存者",
+      "days": {
+        "2026-11-16": {
+          "cny": 29.7,
+          "usd": null
+        }
+      }
+    },
+    "t:梦之形": {
+      "title": "梦之形",
+      "days": {
+        "2026-11-16": {
+          "cny": 49.28,
+          "usd": null
+        }
+      }
+    },
+    "t:艾希": {
+      "title": "艾希",
+      "days": {
+        "2026-11-16": {
+          "cny": 13.3,
+          "usd": null
+        }
+      }
+    },
+    "t:无人深空": {
+      "title": "无人深空",
+      "days": {
+        "2026-11-16": {
+          "cny": 70,
+          "usd": null
+        }
+      }
+    },
+    "t:仁王数字豪华版": {
+      "title": "仁王３ 数字豪华版",
+      "days": {
+        "2026-11-16": {
+          "cny": 294,
+          "usd": null
+        }
+      }
+    },
+    "t:nba2k27": {
+      "title": "NBA 2K27",
+      "days": {
+        "2026-11-16": {
+          "cny": 119,
+          "usd": null
+        }
+      }
+    },
+    "t:莱莎的炼金工房终结之炼金术士与秘密钥匙dx": {
+      "title": "莱莎的炼金工房３ ～终结之炼金术士与秘密钥匙～ DX",
+      "days": {
+        "2026-11-16": {
+          "cny": 186,
+          "usd": null
+        }
+      }
+    },
+    "t:莱莎的炼金工房失落传说与秘密妖精dx": {
+      "title": "莱莎的炼金工房２ ～失落传说与秘密妖精～ DX",
+      "days": {
+        "2026-11-16": {
+          "cny": 166,
+          "usd": null
+        }
+      }
+    },
+    "t:莱莎的炼金工房常暗女王与秘密藏身处dx": {
+      "title": "莱莎的炼金工房 ～常暗女王与秘密藏身处～ DX",
+      "days": {
+        "2026-11-16": {
+          "cny": 149,
+          "usd": null
+        }
+      }
+    },
+    "t:苏菲的炼金工房2不可思议梦的炼金术士": {
+      "title": "苏菲的炼金工房2 ～不可思议梦的炼金术士～",
+      "days": {
+        "2026-11-16": {
+          "cny": 174,
+          "usd": null
+        }
+      }
+    },
+    "t:梅露露的炼金工房亚兰德之炼金术士3dx": {
+      "title": "梅露露的炼金工房～亚兰德之炼金术士3～ DX",
+      "days": {
+        "2026-11-16": {
+          "cny": 45,
+          "usd": null
+        }
+      }
+    },
+    "t:优米雅的炼金工房追忆之炼金术士与幻创之地": {
+      "title": "优米雅的炼金工房 ～追忆之炼金术士与幻创之地～",
+      "days": {
+        "2026-11-16": {
+          "cny": 174,
+          "usd": null
+        }
+      }
+    },
+    "t:露露亚的炼金工房亚兰德之炼金术士4": {
+      "title": "露露亚的炼金工房～亚兰德之炼金术士4～",
+      "days": {
+        "2026-11-16": {
+          "cny": 87,
+          "usd": null
+        }
+      }
+    },
+    "t:夏莉的炼金工房黄昏海洋之炼金术士豪华版": {
+      "title": "夏莉的炼金工房 ～黄昏海洋之炼金术士～ 豪华版",
+      "days": {
+        "2026-11-16": {
+          "cny": 72,
+          "usd": null
+        }
+      }
+    },
+    "app:4917020": {
+      "title": "猫猫跑酷-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 1.8,
+          "usd": null
+        }
+      }
+    },
+    "app:4916300": {
+      "title": "我是校长-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 1.8,
+          "usd": null
+        }
+      }
+    },
+    "app:3680080": {
+      "title": "AI画匠：画家模拟器-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.8,
+          "usd": null
+        }
+      }
+    },
+    "app:904380": {
+      "title": "圣铠：冰魂-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.6,
+          "usd": null
+        }
+      }
+    },
+    "app:1346010": {
+      "title": "RiMS Racing-日本制造商豪华版",
+      "days": {
+        "2026-11-16": {
+          "cny": 132.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1571460": {
+      "title": "少年佐罗：英雄诞生记-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.5,
+          "usd": null
+        }
+      }
+    },
+    "app:757300": {
+      "title": "墨池镇-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.4,
+          "usd": null
+        }
+      }
+    },
+    "app:975470": {
+      "title": "银链-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.6,
+          "usd": null
+        }
+      }
+    },
+    "app:534370": {
+      "title": "纯粹农场2018-豪华版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.14,
+          "usd": null
+        }
+      }
+    },
+    "app:951430": {
+      "title": "尸变纪元2- 标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.08,
+          "usd": null
+        }
+      }
+    },
+    "app:3002840": {
+      "title": "荒古战纪-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 1.86,
+          "usd": null
+        }
+      }
+    },
+    "app:635200": {
+      "title": "怀疑-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.12,
+          "usd": null
+        }
+      }
+    },
+    "app:2094580": {
+      "title": "血泪航线-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.48,
+          "usd": null
+        }
+      }
+    },
+    "app:1172650": {
+      "title": "INDUSTRIA-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.32,
+          "usd": null
+        }
+      }
+    },
+    "app:1755300": {
+      "title": "智能工厂大亨-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.06,
+          "usd": null
+        }
+      }
+    },
+    "app:363930": {
+      "title": "尸变纪元",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.64,
+          "usd": null
+        }
+      }
+    },
+    "app:406850": {
+      "title": "粉碎你的敌人-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.36,
+          "usd": null
+        }
+      }
+    },
+    "app:465200": {
+      "title": "恶棍英雄-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.08,
+          "usd": null
+        }
+      }
+    },
+    "app:1186460": {
+      "title": "侠道游歌-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.6,
+          "usd": null
+        }
+      }
+    },
+    "app:600090": {
+      "title": "昏迷：重剪版-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.64,
+          "usd": null
+        }
+      }
+    },
+    "app:223470": {
+      "title": "喋血街头2-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.36,
+          "usd": null
+        }
+      }
+    },
+    "app:310890": {
+      "title": "突破扫荡：死期-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.36,
+          "usd": null
+        }
+      }
+    },
+    "app:344410": {
+      "title": "磁力：牢笼紧闭-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.64,
+          "usd": null
+        }
+      }
+    },
+    "app:1428710": {
+      "title": "塔尼蚀：神之堕落-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.44,
+          "usd": null
+        }
+      }
+    },
+    "app:1045120": {
+      "title": "早午餐俱乐部-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.84,
+          "usd": null
+        }
+      }
+    },
+    "app:658850": {
+      "title": "不要喂食猴子-标准版 ",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.96,
+          "usd": null
+        }
+      }
+    },
+    "app:319140": {
+      "title": "银河漂流战士-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.36,
+          "usd": null
+        }
+      }
+    },
+    "app:247370": {
+      "title": "泥土突变体：豪华版-豪华版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.36,
+          "usd": null
+        }
+      }
+    },
+    "app:98400": {
+      "title": "绝境重启加长版-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.64,
+          "usd": null
+        }
+      }
+    },
+    "app:421170": {
+      "title": "密不可分-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 11.4,
+          "usd": null
+        }
+      }
+    },
+    "app:11180": {
+      "title": "福尔摩斯：波斯地毯之谜-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.08,
+          "usd": null
+        }
+      }
+    },
+    "app:1085660": {
+      "title": "命运2-凌光之刻",
+      "days": {
+        "2026-11-16": {
+          "cny": 15,
+          "usd": null
+        }
+      }
+    },
+    "app:555510": {
+      "title": "马西亚恶棍-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.84,
+          "usd": null
+        }
+      }
+    },
+    "app:559100": {
+      "title": "幽灵教义-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 12.24,
+          "usd": null
+        }
+      }
+    },
+    "app:446790": {
+      "title": "洪水世界-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.84,
+          "usd": null
+        }
+      }
+    },
+    "app:2720440": {
+      "title": "黑暗征途：魔王的命运-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 1.98,
+          "usd": null
+        }
+      }
+    },
+    "app:1056690": {
+      "title": "再来一口Glurp-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.78,
+          "usd": null
+        }
+      }
+    },
+    "app:3424610": {
+      "title": "梦幻地下城：放置好时光-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.42,
+          "usd": null
+        }
+      }
+    },
+    "app:1543240": {
+      "title": "巨兽浩劫-标准版 ",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.78,
+          "usd": null
+        }
+      }
+    },
+    "app:4373150": {
+      "title": "书呆子的复仇-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 1.71,
+          "usd": null
+        }
+      }
+    },
+    "app:407810": {
+      "title": "绝境重启：回归-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.84,
+          "usd": null
+        }
+      }
+    },
+    "app:452060": {
+      "title": "洞窟开拓者-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.78,
+          "usd": null
+        }
+      }
+    },
+    "app:319850": {
+      "title": "桥梁构造者：中世纪-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.78,
+          "usd": null
+        }
+      }
+    },
+    "app:2933080": {
+      "title": "法外狂徒：滚石城-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.9,
+          "usd": null
+        }
+      }
+    },
+    "app:383150": {
+      "title": "死亡岛：终极版-死亡岛终极合集",
+      "days": {
+        "2026-11-16": {
+          "cny": 16.19,
+          "usd": null
+        }
+      }
+    },
+    "app:1140890": {
+      "title": "病态：七侍者-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 8,
+          "usd": null
+        }
+      }
+    },
+    "app:663300": {
+      "title": "启蒙-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.3,
+          "usd": null
+        }
+      }
+    },
+    "app:628770": {
+      "title": "纷乱深渊-DLC-萨拉的传说",
+      "days": {
+        "2026-11-16": {
+          "cny": 22.4,
+          "usd": null
+        }
+      }
+    },
+    "app:410120": {
+      "title": "挑战：神秘的手卷-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.6,
+          "usd": null
+        }
+      }
+    },
+    "app:1058330": {
+      "title": "博涯堡垒-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 8,
+          "usd": null
+        }
+      }
+    },
+    "app:1840790": {
+      "title": "合金突变-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1275760": {
+      "title": "街头足球-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 11.8,
+          "usd": null
+        }
+      }
+    },
+    "app:774151": {
+      "title": "尤姆尔雅克之戒-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.7,
+          "usd": null
+        }
+      }
+    },
+    "app:312050": {
+      "title": "瑞德强森侦探档案1+2-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.6,
+          "usd": null
+        }
+      }
+    },
+    "app:714250": {
+      "title": "永恒：最后的独角兽-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": null
+        }
+      }
+    },
+    "app:795610": {
+      "title": "帕萨克斯的礼物-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.9,
+          "usd": null
+        }
+      }
+    },
+    "app:512300": {
+      "title": "拆箱-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.8,
+          "usd": null
+        }
+      }
+    },
+    "app:2381740": {
+      "title": "六方守护者-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.8,
+          "usd": null
+        }
+      }
+    },
+    "app:384310": {
+      "title": "逃离百慕大-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.8,
+          "usd": null
+        }
+      }
+    },
+    "app:2060870": {
+      "title": "无敌礼物：原子夏娃-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:635390": {
+      "title": "贼中贼：第一季-第一季",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": null
+        }
+      }
+    },
+    "app:1238180": {
+      "title": "我的领域：教师-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.7,
+          "usd": null
+        }
+      }
+    },
+    "app:1949100": {
+      "title": "我的梦幻牧场-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 10.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1257660": {
+      "title": "时空裂隙-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:830590": {
+      "title": "神圣土豆！间谍故事？！-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": null
+        }
+      }
+    },
+    "app:720660": {
+      "title": "克隆危机 (Overloop)-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1591690": {
+      "title": "狗带真人秀-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5,
+          "usd": null
+        }
+      }
+    },
+    "app:1492320": {
+      "title": "新乔与麦克：穴居忍者-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9.2,
+          "usd": null
+        }
+      }
+    },
+    "app:2320280": {
+      "title": "彗星冲击-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:492710": {
+      "title": "VR乒乓球-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.6,
+          "usd": null
+        }
+      }
+    },
+    "app:200130": {
+      "title": "迷题世界2-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.1,
+          "usd": null
+        }
+      }
+    },
+    "app:1288610": {
+      "title": "暴走枪姬-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.9,
+          "usd": null
+        }
+      }
+    },
+    "app:1811750": {
+      "title": "维隆系统-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.8,
+          "usd": null
+        }
+      }
+    },
+    "app:945740": {
+      "title": "建筑也有感情-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7,
+          "usd": null
+        }
+      }
+    },
+    "app:943140": {
+      "title": "烁石物语-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.8,
+          "usd": null
+        }
+      }
+    },
+    "app:297450": {
+      "title": "飞机上的僵尸-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.2,
+          "usd": null
+        }
+      }
+    },
+    "app:437390": {
+      "title": "霍皮克-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.8,
+          "usd": null
+        }
+      }
+    },
+    "app:351970": {
+      "title": "情热传说-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 31.4,
+          "usd": null
+        }
+      }
+    },
+    "app:1057750": {
+      "title": "瑞秋•福斯特自杀之谜-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 8,
+          "usd": null
+        }
+      }
+    },
+    "app:633950": {
+      "title": "光明陨落：极黑版-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.8,
+          "usd": null
+        }
+      }
+    },
+    "app:505730": {
+      "title": "神圣土豆！我们上天了？！-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": null
+        }
+      }
+    },
+    "app:1050160": {
+      "title": "克苏鲁派对-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.8,
+          "usd": null
+        }
+      }
+    },
+    "app:2850": {
+      "title": "X: Tension-标准版 ",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.2,
+          "usd": null
+        }
+      }
+    },
+    "app:3380340": {
+      "title": "龙道-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.3,
+          "usd": null
+        }
+      }
+    },
+    "app:600130": {
+      "title": "瓦尔法里斯-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 8,
+          "usd": null
+        }
+      }
+    },
+    "app:1363350": {
+      "title": "植兽物语-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.7,
+          "usd": null
+        }
+      }
+    },
+    "app:714080": {
+      "title": "黑色五叶草：四重奏骑士-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 26.8,
+          "usd": null
+        }
+      }
+    },
+    "app:464340": {
+      "title": "塞伯利亚之谜3-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.7,
+          "usd": null
+        }
+      }
+    },
+    "app:242640": {
+      "title": "冥河：暗影大师-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1351210": {
+      "title": "戈德-豪华版",
+      "days": {
+        "2026-11-16": {
+          "cny": 15,
+          "usd": null
+        }
+      }
+    },
+    "app:1389840": {
+      "title": "酒店生涯：模拟度假村-Lake 版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": null
+        }
+      }
+    },
+    "app:1425180": {
+      "title": "腐败血脉-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1270460": {
+      "title": "TOSS!🍌-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1058800": {
+      "title": "矿工的勇气-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9.2,
+          "usd": null
+        }
+      }
+    },
+    "app:1732340": {
+      "title": "魔眼凝望EXTRA-DLC-小孩子才做选择！超豪华道具组合",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": null
+        }
+      }
+    },
+    "app:425220": {
+      "title": "海贼王：燃烧热血-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 26.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1643850": {
+      "title": "末日度假村-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5,
+          "usd": null
+        }
+      }
+    },
+    "app:915230": {
+      "title": "滚弹吧僵尸-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.9,
+          "usd": null
+        }
+      }
+    },
+    "app:1330660": {
+      "title": "火车生涯：模拟铁路-支持版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7,
+          "usd": null
+        }
+      }
+    },
+    "app:382140": {
+      "title": "天空之山-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": null
+        }
+      }
+    },
+    "app:233130": {
+      "title": "影子武士-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 10.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1308880": {
+      "title": "止赎-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.7,
+          "usd": null
+        }
+      }
+    },
+    "app:1654660": {
+      "title": "击剑预备！-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.8,
+          "usd": null
+        }
+      }
+    },
+    "app:353640": {
+      "title": "火车山谷-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.6,
+          "usd": null
+        }
+      }
+    },
+    "app:63940": {
+      "title": "战争之人：越南-特别版-本体+升级包",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.3,
+          "usd": null
+        }
+      }
+    },
+    "app:1318690": {
+      "title": "异形工厂-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.5,
+          "usd": null
+        }
+      }
+    },
+    "app:1063660": {
+      "title": "班迪与暗黑重生-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1616110": {
+      "title": "病毒特攻队-DLC-原声音乐集",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:1245480": {
+      "title": "奇异贤伴 爱达之歌-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 19.8,
+          "usd": null
+        }
+      }
+    },
+    "app:544750": {
+      "title": "灵魂能力6-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 29.8,
+          "usd": null
+        }
+      }
+    },
+    "app:678960": {
+      "title": "噬血代码-豪华版",
+      "days": {
+        "2026-11-16": {
+          "cny": 26.8,
+          "usd": null
+        }
+      }
+    },
+    "app:416680": {
+      "title": "恐怖僵尸之夜-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.2,
+          "usd": null
+        }
+      }
+    },
+    "app:371520": {
+      "title": "赏金列车-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": null
+        }
+      }
+    },
+    "app:359840": {
+      "title": "移形换位-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9.5,
+          "usd": null
+        }
+      }
+    },
+    "app:602320": {
+      "title": "火车山谷2-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5,
+          "usd": null
+        }
+      }
+    },
+    "app:1082180": {
+      "title": "曼岛TT赛事：边缘竞速2-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": null
+        }
+      }
+    },
+    "app:809230": {
+      "title": "统一指挥2-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 10.8,
+          "usd": null
+        }
+      }
+    },
+    "app:207610": {
+      "title": "行尸走肉-第一季",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1071870": {
+      "title": "知只大冒险-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1462810": {
+      "title": "WRC 10 FIA世界拉力锦标赛-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 16.3,
+          "usd": null
+        }
+      }
+    },
+    "app:1069690": {
+      "title": "欺诈领主-血月版",
+      "days": {
+        "2026-11-16": {
+          "cny": 8,
+          "usd": null
+        }
+      }
+    },
+    "app:1577120": {
+      "title": "采石场惊魂-豪华版",
+      "days": {
+        "2026-11-16": {
+          "cny": 19.9,
+          "usd": null
+        }
+      }
+    },
+    "app:2512920": {
+      "title": "蒜什么建造师-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.2,
+          "usd": null
+        }
+      }
+    },
+    "app:268540": {
+      "title": "风语世界-特别版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": null
+        }
+      }
+    },
+    "app:1360660": {
+      "title": "Neon Blight-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7,
+          "usd": null
+        }
+      }
+    },
+    "app:1029730": {
+      "title": "VR乒乓球 Pro-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 8,
+          "usd": null
+        }
+      }
+    },
+    "app:277520": {
+      "title": "反照：异形之眼-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1839190": {
+      "title": "房产达人：宠物 VR-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": null
+        }
+      }
+    },
+    "app:1095290": {
+      "title": "丧灵激汤-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.4,
+          "usd": null
+        }
+      }
+    },
+    "app:2008420": {
+      "title": "闪回2-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 12.8,
+          "usd": null
+        }
+      }
+    },
+    "app:564340": {
+      "title": "五合一合集 - 纪念碑建造者：美国之旅-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.6,
+          "usd": null
+        }
+      }
+    },
+    "app:1867520": {
+      "title": "奥秘农庄-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": null
+        }
+      }
+    },
+    "app:1356240": {
+      "title": "谁想成为百万富翁-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": null
+        }
+      }
+    },
+    "app:383750": {
+      "title": "疯克泰坦-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.8,
+          "usd": null
+        }
+      }
+    },
+    "app:2054220": {
+      "title": "韦托里-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.5,
+          "usd": null
+        }
+      }
+    },
+    "app:337490": {
+      "title": "立方幻想-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.5,
+          "usd": null
+        }
+      }
+    },
+    "app:1000080": {
+      "title": "神明在上-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.6,
+          "usd": null
+        }
+      }
+    },
+    "app:2458250": {
+      "title": "哭泣宝贝魔法眼泪：大游戏-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 10.8,
+          "usd": null
+        }
+      }
+    },
+    "app:382420": {
+      "title": "外星军团-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1186040": {
+      "title": "百战天虫：大混战-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.2,
+          "usd": null
+        }
+      }
+    },
+    "app:1261530": {
+      "title": "Ponpu-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1356810": {
+      "title": "帝王牌局：古国纷争-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1709870": {
+      "title": "鬼灵双盗-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.8,
+          "usd": null
+        }
+      }
+    },
+    "app:520950": {
+      "title": "漂移21-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9.8,
+          "usd": null
+        }
+      }
+    },
+    "app:755500": {
+      "title": "海贼王：寻秘世界-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 26.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1795010": {
+      "title": "Funtasia-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.5,
+          "usd": null
+        }
+      }
+    },
+    "app:369070": {
+      "title": "弑杀-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:204860": {
+      "title": "战争勇士：负罪英雄-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.3,
+          "usd": null
+        }
+      }
+    },
+    "app:433450": {
+      "title": "逃离地狱-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5,
+          "usd": null
+        }
+      }
+    },
+    "app:1561660": {
+      "title": "光明使者-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5,
+          "usd": null
+        }
+      }
+    },
+    "app:1647420": {
+      "title": "末日绿钞-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.4,
+          "usd": null
+        }
+      }
+    },
+    "app:2651220": {
+      "title": "铁匠：熔炉重燃-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:1194700": {
+      "title": "房产达人VR-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": null
+        }
+      }
+    },
+    "app:2626860": {
+      "title": "龙蚀-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.2,
+          "usd": null
+        }
+      }
+    },
+    "app:865930": {
+      "title": "BQM砖块迷宫建造者-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5,
+          "usd": null
+        }
+      }
+    },
+    "app:374900": {
+      "title": "阿加莎·克里斯蒂 - ABC奇案-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.8,
+          "usd": null
+        }
+      }
+    },
+    "app:991560": {
+      "title": "一拳超人：无名英雄-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 26.8,
+          "usd": null
+        }
+      }
+    },
+    "app:64000": {
+      "title": "战争之人：突击小队-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:2411910": {
+      "title": "嘣境回收战-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.8,
+          "usd": null
+        }
+      }
+    },
+    "app:319450": {
+      "title": "战车-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.8,
+          "usd": null
+        }
+      }
+    },
+    "app:3020": {
+      "title": "狂野西部-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:1698220": {
+      "title": "特斯拉学徒 2-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7,
+          "usd": null
+        }
+      }
+    },
+    "app:322680": {
+      "title": "黑洞-完整版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.6,
+          "usd": null
+        }
+      }
+    },
+    "app:925570": {
+      "title": "不确定：光明的尽头-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.7,
+          "usd": null
+        }
+      }
+    },
+    "app:21980": {
+      "title": "狂野西部：生死同盟-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:464060": {
+      "title": "RUINER-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": null
+        }
+      }
+    },
+    "app:25850": {
+      "title": "精灵遗产-合集版",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.2,
+          "usd": null
+        }
+      }
+    },
+    "app:438490": {
+      "title": "噬神者2：狂怒解放-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 26.8,
+          "usd": null
+        }
+      }
+    },
+    "app:899440": {
+      "title": "噬神者3-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 26.8,
+          "usd": null
+        }
+      }
+    },
+    "app:698670": {
+      "title": "蔑视-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 13.9,
+          "usd": null
+        }
+      }
+    },
+    "app:473690": {
+      "title": "赦免者-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 10.8,
+          "usd": null
+        }
+      }
+    },
+    "app:807120": {
+      "title": "伊拉图斯：死之主-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 14.9,
+          "usd": null
+        }
+      }
+    },
+    "app:1608040": {
+      "title": "森久城物语-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:2264140": {
+      "title": "双人大逃脱-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.2,
+          "usd": null
+        }
+      }
+    },
+    "app:887060": {
+      "title": "Asterix 和 Obelix XXL 2-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.2,
+          "usd": null
+        }
+      }
+    },
+    "app:410130": {
+      "title": "挑战：托莱多失落之剑-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.6,
+          "usd": null
+        }
+      }
+    },
+    "app:324770": {
+      "title": "生存热线112-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.6,
+          "usd": null
+        }
+      }
+    },
+    "app:1165610": {
+      "title": "坏小子迪德夫：超级派对-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": null
+        }
+      }
+    },
+    "app:723760": {
+      "title": "蒸汽堡-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.7,
+          "usd": null
+        }
+      }
+    },
+    "app:243200": {
+      "title": "黑暗之眼：记忆-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.9,
+          "usd": null
+        }
+      }
+    },
+    "app:314830": {
+      "title": "黑色守卫2-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": null
+        }
+      }
+    },
+    "app:1459960": {
+      "title": "故障朋克-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": null
+        }
+      }
+    },
+    "app:315540": {
+      "title": "乔伊·兰瑟：超级机动骑士-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.6,
+          "usd": null
+        }
+      }
+    },
+    "app:1579020": {
+      "title": "Golfie-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.8,
+          "usd": null
+        }
+      }
+    },
+    "app:229890": {
+      "title": "乔伊冒险-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1261520": {
+      "title": "幻想新国度：重制版-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.2,
+          "usd": null
+        }
+      }
+    },
+    "app:1109690": {
+      "title": "幻想新国度3：水晶巨石柱-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.2,
+          "usd": null
+        }
+      }
+    },
+    "app:289340": {
+      "title": "货运大亨-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.2,
+          "usd": null
+        }
+      }
+    },
+    "app:1058320": {
+      "title": "Toki-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7,
+          "usd": null
+        }
+      }
+    },
+    "app:330660": {
+      "title": "世外繁星-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:1852650": {
+      "title": "野狼行动回归：首次任务-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.8,
+          "usd": null
+        }
+      }
+    },
+    "app:2298620": {
+      "title": "英灵战士自走棋-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.2,
+          "usd": null
+        }
+      }
+    },
+    "app:2223740": {
+      "title": "阿加莎·克里斯蒂- 赫尔克里·波洛：伦敦案件-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9.5,
+          "usd": null
+        }
+      }
+    },
+    "app:953870": {
+      "title": "太空罗宾逊-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:304730": {
+      "title": "狂热火车-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": null
+        }
+      }
+    },
+    "app:809870": {
+      "title": "忍兔：胡萝卜大战-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.7,
+          "usd": null
+        }
+      }
+    },
+    "app:373360": {
+      "title": "七方神谕-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.7,
+          "usd": null
+        }
+      }
+    },
+    "app:1235830": {
+      "title": "黑水绮谭-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.8,
+          "usd": null
+        }
+      }
+    },
+    "app:961620": {
+      "title": "闪回-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.7,
+          "usd": null
+        }
+      }
+    },
+    "app:492180": {
+      "title": "海姆里克Haimrik-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.7,
+          "usd": null
+        }
+      }
+    },
+    "app:235210": {
+      "title": "出击飞龙-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1135240": {
+      "title": "战争之人：突击小队2-冷战-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.6,
+          "usd": null
+        }
+      }
+    },
+    "app:342310": {
+      "title": "暴乱： 动荡-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.7,
+          "usd": null
+        }
+      }
+    },
+    "app:1377890": {
+      "title": "鲁比克教授的头脑训练-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:496400": {
+      "title": "雷诺阿-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:292910": {
+      "title": "德波尼亚：完整旅程-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 14.9,
+          "usd": null
+        }
+      }
+    },
+    "app:584990": {
+      "title": "漫长旅程-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.8,
+          "usd": null
+        }
+      }
+    },
+    "app:959000": {
+      "title": "埃德娜和哈维：突破 周年纪念版-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": null
+        }
+      }
+    },
+    "app:1361840": {
+      "title": "Tunnel of Doom-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.7,
+          "usd": null
+        }
+      }
+    },
+    "app:314790": {
+      "title": "寂静-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9,
+          "usd": null
+        }
+      }
+    },
+    "app:3010": {
+      "title": "劲爆拉力赛-极限版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.9,
+          "usd": null
+        }
+      }
+    },
+    "app:1586700": {
+      "title": "长尾豹马修：大冒险-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.2,
+          "usd": null
+        }
+      }
+    },
+    "app:829590": {
+      "title": "末日觉醒-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 8,
+          "usd": null
+        }
+      }
+    },
+    "app:4540130": {
+      "title": "只坤：影逝2.5度-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.5,
+          "usd": null
+        }
+      }
+    },
+    "app:392280": {
+      "title": "弗兰兹·卡夫卡的游戏-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.9,
+          "usd": null
+        }
+      }
+    },
+    "app:1661630": {
+      "title": "因果动物园-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.8,
+          "usd": null
+        }
+      }
+    },
+    "app:626610": {
+      "title": "曼岛TT摩托车大赛-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7,
+          "usd": null
+        }
+      }
+    },
+    "app:1924170": {
+      "title": "曼岛TT摩托车大赛:边缘竞速3-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 16.8,
+          "usd": null
+        }
+      }
+    },
+    "app:2800": {
+      "title": "星际大反攻2：危机-标准版 ",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.2,
+          "usd": null
+        }
+      }
+    },
+    "app:525480": {
+      "title": "骇客时空GU 最终编码-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 27.8,
+          "usd": null
+        }
+      }
+    },
+    "app:2840": {
+      "title": "X:超越边界-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.2,
+          "usd": null
+        }
+      }
+    },
+    "app:1042550": {
+      "title": "数码宝贝物语：网络侦探-完整版",
+      "days": {
+        "2026-11-16": {
+          "cny": 22.8,
+          "usd": null
+        }
+      }
+    },
+    "app:575330": {
+      "title": "噢…先生！好莱坞式嘲讽-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 1.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1557860": {
+      "title": "极限俱乐部无限2：终极版-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.8,
+          "usd": null
+        }
+      }
+    },
+    "app:940710": {
+      "title": "柯尔特峡谷-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.8,
+          "usd": null
+        }
+      }
+    },
+    "app:342300": {
+      "title": "僵尸杀手：重生-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.8,
+          "usd": null
+        }
+      }
+    },
+    "app:674750": {
+      "title": "又一个僵尸塔防 高清版-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 1.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1652250": {
+      "title": "传说与战术自走棋-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1519090": {
+      "title": "欢迎来到帕拉迪泽-支持者版",
+      "days": {
+        "2026-11-16": {
+          "cny": 17.3,
+          "usd": null
+        }
+      }
+    },
+    "app:249650": {
+      "title": "黑色守卫-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": null
+        }
+      }
+    },
+    "app:521890": {
+      "title": "你好邻居-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 10.8,
+          "usd": null
+        }
+      }
+    },
+    "app:204450": {
+      "title": "狂野西部：枪手-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5,
+          "usd": null
+        }
+      }
+    },
+    "app:346010": {
+      "title": "围攻-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.8,
+          "usd": null
+        }
+      }
+    },
+    "app:239140": {
+      "title": "消逝的光芒-精选版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9.8,
+          "usd": null
+        }
+      }
+    },
+    "app:289070": {
+      "title": "文明6-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 19.9,
+          "usd": null
+        }
+      }
+    },
+    "app:2290180": {
+      "title": "极限国度-Uplay平台-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 16.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1590750": {
+      "title": "瓶瓶罐罐-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.9,
+          "usd": null
+        }
+      }
+    },
+    "app:1301950": {
+      "title": "Time Loader-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 2.9,
+          "usd": null
+        }
+      }
+    },
+    "app:1206610": {
+      "title": "橡胶强盗-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.5,
+          "usd": null
+        }
+      }
+    },
+    "app:1830630": {
+      "title": "越野之旅2-豪华版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.7,
+          "usd": null
+        }
+      }
+    },
+    "app:63960": {
+      "title": "战场3：朝鲜-战场合集包",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1078490": {
+      "title": "猎源-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.04,
+          "usd": null
+        }
+      }
+    },
+    "app:2168150": {
+      "title": "特斯拉学徒：重制版-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:3839360": {
+      "title": "小小鸟托邦-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.32,
+          "usd": null
+        }
+      }
+    },
+    "app:836600": {
+      "title": "侦探神宫寺三郎：代达罗斯黄金爵士乐的觉醒-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 13.92,
+          "usd": null
+        }
+      }
+    },
+    "app:1163550": {
+      "title": "队长小翼 新秀崛起-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 23.76,
+          "usd": null
+        }
+      }
+    },
+    "app:2747550": {
+      "title": "Bloodshed-标准版 ",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.24,
+          "usd": null
+        }
+      }
+    },
+    "app:3706590": {
+      "title": "毛茸茸食堂物语-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.36,
+          "usd": null
+        }
+      }
+    },
+    "app:2674970": {
+      "title": "地狱弹珠-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.12,
+          "usd": null
+        }
+      }
+    },
+    "app:401680": {
+      "title": "喋血街头：回归-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.32,
+          "usd": null
+        }
+      }
+    },
+    "app:244210": {
+      "title": "神力科莎-DLC-季票",
+      "days": {
+        "2026-11-16": {
+          "cny": 8,
+          "usd": null
+        }
+      }
+    },
+    "app:859200": {
+      "title": "破东荒-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.5,
+          "usd": null
+        }
+      }
+    },
+    "app:1470790": {
+      "title": "道格弗鲁迪的极限橄榄球2020-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 11.7,
+          "usd": null
+        }
+      }
+    },
+    "app:1276760": {
+      "title": "七龙珠 破界斗士-特别版",
+      "days": {
+        "2026-11-16": {
+          "cny": 19.24,
+          "usd": null
+        }
+      }
+    },
+    "app:406350": {
+      "title": "卡特卡夫 卡丁车-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 11.96,
+          "usd": null
+        }
+      }
+    },
+    "app:1490840": {
+      "title": "血岸岛-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 7.54,
+          "usd": null
+        }
+      }
+    },
+    "app:1166290": {
+      "title": "死亡与税赋-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.76,
+          "usd": null
+        }
+      }
+    },
+    "app:365960": {
+      "title": "R元素2-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 14.04,
+          "usd": null
+        }
+      }
+    },
+    "app:1270850": {
+      "title": "卡玛市警察局-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.24,
+          "usd": null
+        }
+      }
+    },
+    "app:1387500": {
+      "title": "越野车机械师模拟器-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9.1,
+          "usd": null
+        }
+      }
+    },
+    "app:3637330": {
+      "title": "喵喵时光机：梵高-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 1.95,
+          "usd": null
+        }
+      }
+    },
+    "app:2891120": {
+      "title": "疯狂手机大亨-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 6.76,
+          "usd": null
+        }
+      }
+    },
+    "app:238090": {
+      "title": "狙击精英3-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 14.04,
+          "usd": null
+        }
+      }
+    },
+    "app:1346740": {
+      "title": "荧火微光-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.8,
+          "usd": null
+        }
+      }
+    },
+    "app:1399090": {
+      "title": "生活模拟器-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.3,
+          "usd": null
+        }
+      }
+    },
+    "app:2382580": {
+      "title": "一个叫Paako的游戏-DLC- 那个叫Paako的游戏",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.39,
+          "usd": null
+        }
+      }
+    },
+    "app:629860": {
+      "title": "地下冒险派对-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 14,
+          "usd": null
+        }
+      }
+    },
+    "app:257990": {
+      "title": "奥兹：地球冒险-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 5.88,
+          "usd": null
+        }
+      }
+    },
+    "app:368430": {
+      "title": "穿越林间-数字收藏版",
+      "days": {
+        "2026-11-16": {
+          "cny": 15.26,
+          "usd": null
+        }
+      }
+    },
+    "app:2642570": {
+      "title": "弹珠地狱洛坎塔-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 3.36,
+          "usd": null
+        }
+      }
+    },
+    "app:1308500": {
+      "title": "安魂挽歌-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 9.6,
+          "usd": null
+        }
+      }
+    },
+    "app:368070": {
+      "title": "狙击手：幽灵战士3-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 10,
+          "usd": null
+        }
+      }
+    },
+    "app:424840": {
+      "title": "小小噩梦-完全版-本体+额外地图",
+      "days": {
+        "2026-11-16": {
+          "cny": 36.99,
+          "usd": null
+        }
+      }
+    },
+    "app:374040": {
+      "title": "传送门骑士-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 10,
+          "usd": null
+        }
+      }
+    },
+    "app:1237510": {
+      "title": "我猜是利文斯顿博士吧？反向逃生室-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 8.7,
+          "usd": null
+        }
+      }
+    },
+    "app:1556490": {
+      "title": "Retreat To Enen-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 13.2,
+          "usd": null
+        }
+      }
+    },
+    "app:428270": {
+      "title": "暮光之城:爱的治愈-标准版",
+      "days": {
+        "2026-11-16": {
+          "cny": 4.35,
+          "usd": null
+        }
+      }
+    },
+    "app:4589000": {
+      "title": "Void Step",
+      "days": {
+        "2026-11-16": {
+          "cny": 14.3,
+          "usd": null
+        }
+      }
+    },
+    "app:5314120": {
+      "title": "Seashell Hoarder: Tidy Up",
+      "days": {
+        "2026-11-16": {
+          "cny": 15.3,
+          "usd": null
+        }
+      }
+    },
+    "app:5168260": {
+      "title": "Killer Issues",
+      "days": {
+        "2026-11-16": {
+          "cny": 21.25,
+          "usd": null
+        }
+      }
+    },
+    "app:4645180": {
+      "title": "Elecade",
+      "days": {
+        "2026-11-16": {
+          "cny": 16.5,
+          "usd": null
+        }
+      }
+    },
+    "app:5016130": {
+      "title": "Warpack",
+      "days": {
+        "2026-11-16": {
+          "cny": 43.2,
+          "usd": null
+        }
+      }
+    },
+    "app:5466350": {
+      "title": "Shift 233",
+      "days": {
+        "2026-11-16": {
+          "cny": 13.5,
+          "usd": null
+        }
+      }
+    },
+    "app:252490": {
+      "title": "Rust",
+      "days": {
+        "2026-11-16": {
+          "cny": 2,
+          "usd": null
+        }
+      }
+    },
+    "app:431960": {
+      "title": "Wallpaper Engine：壁纸引擎",
+      "days": {
+        "2026-11-16": {
+          "cny": 0.82,
+          "usd": null
+        }
+      }
+    },
+    "app:1091500": {
+      "title": "赛博朋克 2077",
+      "days": {
+        "2026-11-16": {
+          "cny": 1,
+          "usd": null
+        }
+      }
+    },
+    "app:1867240": {
+      "title": "WARDOGS",
+      "days": {
+        "2026-11-16": {
+          "cny": 2,
+          "usd": null
+        }
+      }
+    },
+    "app:4115450": {
+      "title": "影之刃零",
+      "days": {
+        "2026-11-16": {
+          "cny": 0.1,
+          "usd": null
+        }
+      }
+    },
+    "app:4348910": {
+      "title": "深空当铺：可能是偷的",
+      "days": {
+        "2026-11-16": {
+          "cny": 1,
+          "usd": null
+        }
+      }
+    }
+  }
+}
