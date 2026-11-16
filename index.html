@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>游戏打折监控</title>
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <h1>🎮 游戏打折监控</h1>
+    <p class="subtitle">Steam 国区 · 8 家海外正版店 · 杉果 · steamPY · 小黑盒 — 每 4 小时自动刷新</p>
+    <div class="meta-row">
+      <span id="meta-refresh">正在加载数据…</span>
+      <span id="meta-total"></span>
+    </div>
+    <div id="source-status" class="source-status"></div>
+    <div id="source-banner" class="banner hidden"></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="empty-state" class="empty hidden">
+    <p>暂无折扣数据。</p>
+    <p class="muted">数据文件尚未生成（定时刷新任务还未成功跑完第一轮），请稍后再来。这里不会展示编造的占位折扣。</p>
+  </section>
+
+  <section id="controls" class="controls hidden">
+    <div class="row">
+      <input id="search" type="search" placeholder="搜索游戏名…" autocomplete="off">
+      <select id="sort" aria-label="排序">
+        <option value="popularity">排序：热门程度</option>
+        <option value="discount">排序：折扣力度</option>
+        <option value="price">排序：价格从低到高</option>
+        <option value="savings">排序：省钱额</option>
+        <option value="deadline">排序：截止时间</option>
+      </select>
+      <select id="currency" aria-label="币种">
+        <option value="">全部币种</option>
+        <option value="CNY">人民币 ¥</option>
+        <option value="USD">美元 $</option>
+      </select>
+      <select id="min-discount" aria-label="最低折扣">
+        <option value="0">折扣：不限</option>
+        <option value="25">折扣：-25% 以上</option>
+        <option value="50">折扣：-50% 以上</option>
+        <option value="75">折扣：-75% 以上</option>
+        <option value="90">折扣：-90% 以上</option>
+      </select>
+    </div>
+    <div class="row">
+      <div id="store-chips" class="chips"></div>
+    </div>
+    <div class="row">
+      <label class="check"><input type="checkbox" id="multi-only"> 只显示多家在售（可比价）</label>
+      <label class="check"><input type="checkbox" id="watch-only"> 只看我的关注</label>
+      <span id="result-count" class="muted"></span>
+    </div>
+  </section>
+
+  <section id="watchlist" class="watchlist hidden">
+    <h2>⭐ 我的关注 <span id="watch-count" class="muted"></span></h2>
+    <div class="row">
+      <input id="watch-search" type="search" placeholder="在全部折扣中搜索游戏，加入关注…" autocomplete="off">
+    </div>
+    <div id="watch-search-results" class="watch-search-results"></div>
+    <div id="watch-items"></div>
+  </section>
+
+  <section id="grid" class="grid"></section>
+  <div class="load-more-row">
+    <button id="load-more" class="btn hidden">加载更多</button>
+  </div>
+</main>
+
+<footer class="wrap footer">
+  <h2>数据来源与价格口径</h2>
+  <ul>
+    <li><strong>Steam 国区</strong>：Steam 官方商店接口，人民币，含折扣截止时间。</li>
+    <li><strong>8 家海外正版店</strong>（GOG、Humble Bundle、Fanatical、GreenManGaming、Epic、Gamesplanet、IndieGala、Steam 美区）：CheapShark 公开 API，美元，链接为 CheapShark 官方跳转链接。</li>
+    <li><strong>杉果</strong>：杉果官网首页公开的商品数据，人民币，链接到对应商品页。</li>
+    <li><strong>steamPY</strong>：steamPY 官方插件公开报价接口，人民币；原价取 Steam 国区原价，卡片价为 CDK 报价（已剔除 0.1 元/1 元抽奖式挂牌）；链接统一到 steampy.com 首页（无公开商品页可链）。</li>
+    <li><strong>小黑盒</strong>：小黑盒商城公开列表（按最高折扣排序），人民币；卡片价为商城列表价，需登录领取的优惠券价不计入。</li>
+  </ul>
+  <p>热门程度来自 Steam 官方当前在线人数 Top 100，未上榜的游戏按折扣力度排在后面。关注列表只保存在你的浏览器本地（localStorage），历史最低价来自本站每天记录的价格快照（保留 90 天）。数据每 4 小时自动刷新；如某来源某轮抓取失败，会保留该来源上次的数据并在页面顶部提示。</p>
+</footer>
+
+<script src="./app.js"></script>
+</body>
+</html>
