@@ -1,0 +1,37 @@
+name: Refresh game deals
+
+on:
+  schedule:
+    # 每 4 小时刷新一次 (UTC 时间: 00:00 / 04:00 / 08:00 / 12:00 / 16:00 / 20:00)
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch deals
+        run: node scripts/fetch.mjs
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/deals.json data/history.json
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore: refresh deals data [skip ci]"
+            git push
+          fi
