@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-24T04:36:33.200Z",
+  "updated": "2026-11-24T19:20:28.129Z",
   "series": {
     "app:40700": {
       "title": "机械迷城-标准版",
@@ -8564,7 +8564,7 @@
       }
     },
     "app:755500": {
-      "title": "海贼王：寻秘世界-标准版",
+      "title": "海贼王：寻秘世界-豪华版",
       "days": {
         "2026-11-16": {
           "cny": 26.8,
@@ -13599,7 +13599,7 @@
       }
     },
     "app:990080": {
-      "title": "霍格沃茨：遗产-标准版",
+      "title": "霍格沃茨之遗",
       "days": {
         "2026-11-17": {
           "cny": 57.6,
@@ -16093,7 +16093,7 @@
       }
     },
     "app:2144740": {
-      "title": "幽灵行者2-豪华版",
+      "title": "幽灵行者2-标准版",
       "days": {
         "2026-11-17": {
           "cny": 33.6,
@@ -19519,7 +19519,7 @@
       }
     },
     "app:1462040": {
-      "title": "最终幻想7 重制版-标准版",
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
       "days": {
         "2026-11-18": {
           "cny": 35.64,
@@ -20185,6 +20185,10 @@
           "usd": null
         },
         "2026-11-23": {
+          "cny": 124,
+          "usd": null
+        },
+        "2026-11-24": {
           "cny": 124,
           "usd": null
         }
@@ -20940,7 +20944,7 @@
       }
     },
     "app:702890": {
-      "title": "苍翼默示录：交叉对决-特别版",
+      "title": "苍翼默示录：交叉对决-标准版",
       "days": {
         "2026-11-19": {
           "cny": 37.6,
@@ -22906,7 +22910,7 @@
           "usd": null
         },
         "2026-11-24": {
-          "cny": 220,
+          "cny": 216.5,
           "usd": null
         }
       }
@@ -24970,6 +24974,10 @@
         "2026-11-23": {
           "cny": 253.3,
           "usd": null
+        },
+        "2026-11-24": {
+          "cny": 253.3,
+          "usd": null
         }
       }
     },
@@ -25665,7 +25673,7 @@
       }
     },
     "app:1252330": {
-      "title": "死亡循环-豪华版",
+      "title": "死亡循环-标准版",
       "days": {
         "2026-11-23": {
           "cny": 49.8,
@@ -26153,6 +26161,285 @@
       "days": {
         "2026-11-24": {
           "cny": 76.85,
+          "usd": null
+        }
+      }
+    },
+    "app:475190": {
+      "title": "Scanner Sombre",
+      "days": {
+        "2026-11-24": {
+          "cny": 2,
+          "usd": null
+        }
+      }
+    },
+    "app:5516980": {
+      "title": "Tidy Up: Bricks n Blocks",
+      "days": {
+        "2026-11-24": {
+          "cny": 12.35,
+          "usd": null
+        }
+      }
+    },
+    "app:5210430": {
+      "title": "Break the Piñatas",
+      "days": {
+        "2026-11-24": {
+          "cny": 12,
+          "usd": null
+        }
+      }
+    },
+    "app:5534310": {
+      "title": "Find The Needle: Haystack Hunt",
+      "days": {
+        "2026-11-24": {
+          "cny": 23.8,
+          "usd": null
+        }
+      }
+    },
+    "app:3237870": {
+      "title": "Cloudy with a Chance of Kittens",
+      "days": {
+        "2026-11-24": {
+          "cny": 27.9,
+          "usd": null
+        }
+      }
+    },
+    "app:4488990": {
+      "title": "卡米拉：绯红之月",
+      "days": {
+        "2026-11-24": {
+          "cny": 31.5,
+          "usd": null
+        }
+      }
+    },
+    "app:5391260": {
+      "title": "Fish It!: Sort the Aquarium Shop",
+      "days": {
+        "2026-11-24": {
+          "cny": 22.1,
+          "usd": null
+        }
+      }
+    },
+    "app:2387740": {
+      "title": "Light of Atlantis",
+      "days": {
+        "2026-11-24": {
+          "cny": 56,
+          "usd": null
+        }
+      }
+    },
+    "app:4912110": {
+      "title": "Mayhem Duck Simulator",
+      "days": {
+        "2026-11-24": {
+          "cny": 9,
+          "usd": null
+        }
+      }
+    },
+    "app:4078600": {
+      "title": "空想兔子 PiPu Party",
+      "days": {
+        "2026-11-24": {
+          "cny": 20,
+          "usd": null
+        }
+      }
+    },
+    "app:4737240": {
+      "title": "Stevedore",
+      "days": {
+        "2026-11-24": {
+          "cny": 8.8,
+          "usd": null
+        }
+      }
+    },
+    "app:5219370": {
+      "title": "Wreck the Deck",
+      "days": {
+        "2026-11-24": {
+          "cny": 12,
+          "usd": null
+        }
+      }
+    },
+    "app:5472080": {
+      "title": "SHRED A BILLION",
+      "days": {
+        "2026-11-24": {
+          "cny": 20,
+          "usd": null
+        }
+      }
+    },
+    "app:4748830": {
+      "title": "D.A.M.N!",
+      "days": {
+        "2026-11-24": {
+          "cny": 45.9,
+          "usd": null
+        }
+      }
+    },
+    "app:5527800": {
+      "title": "No Asteroids",
+      "days": {
+        "2026-11-24": {
+          "cny": 22.4,
+          "usd": null
+        }
+      }
+    },
+    "app:4685950": {
+      "title": "蚂蚁点倍",
+      "days": {
+        "2026-11-24": {
+          "cny": 12.75,
+          "usd": null
+        }
+      }
+    },
+    "app:5314080": {
+      "title": "One More Donut",
+      "days": {
+        "2026-11-24": {
+          "cny": 11.04,
+          "usd": null
+        }
+      }
+    },
+    "app:2558290": {
+      "title": "Excalibur's Swordstone Idle Forge",
+      "days": {
+        "2026-11-24": {
+          "cny": 18.7,
+          "usd": null
+        }
+      }
+    },
+    "app:1442430": {
+      "title": "仓库猎人模拟器",
+      "days": {
+        "2026-11-24": {
+          "cny": 37,
+          "usd": null
+        }
+      }
+    },
+    "app:4137750": {
+      "title": "东方铭珠塔",
+      "days": {
+        "2026-11-24": {
+          "cny": 18.7,
+          "usd": null
+        }
+      }
+    },
+    "app:4653380": {
+      "title": "Anvilia",
+      "days": {
+        "2026-11-24": {
+          "cny": 23.8,
+          "usd": null
+        }
+      }
+    },
+    "app:4905460": {
+      "title": "Chest Looter: Cardimonsta Collection",
+      "days": {
+        "2026-11-24": {
+          "cny": 17.6,
+          "usd": null
+        }
+      }
+    },
+    "app:5000170": {
+      "title": "洞穴大冒险",
+      "days": {
+        "2026-11-24": {
+          "cny": 20.8,
+          "usd": null
+        }
+      }
+    },
+    "app:5486380": {
+      "title": "Taenera's Offer",
+      "days": {
+        "2026-11-24": {
+          "cny": 21,
+          "usd": null
+        }
+      }
+    },
+    "app:5342300": {
+      "title": "Amateur Football Together",
+      "days": {
+        "2026-11-24": {
+          "cny": 16.2,
+          "usd": null
+        }
+      }
+    },
+    "t:统一指挥2": {
+      "title": "统一指挥2",
+      "days": {
+        "2026-11-24": {
+          "cny": 10,
+          "usd": null
+        }
+      }
+    },
+    "app:1843310": {
+      "title": "Funko Fusion-标准版",
+      "days": {
+        "2026-11-24": {
+          "cny": 19.2,
+          "usd": null
+        }
+      }
+    },
+    "app:650510": {
+      "title": "终极地带：阿努比斯火星-标准版-中国大陆地区和越南地区账号请勿购买",
+      "days": {
+        "2026-11-24": {
+          "cny": 36,
+          "usd": null
+        }
+      }
+    },
+    "app:1611910": {
+      "title": "战锤40K：混沌之门-恶魔猎人-堡主勇士版",
+      "days": {
+        "2026-11-24": {
+          "cny": 29.6,
+          "usd": null
+        }
+      }
+    },
+    "app:1844380": {
+      "title": "战锤西格玛时代：毁灭之国-豪华版",
+      "days": {
+        "2026-11-24": {
+          "cny": 47.6,
+          "usd": null
+        }
+      }
+    },
+    "app:2109370": {
+      "title": "世界大战：西方战线-胜利版",
+      "days": {
+        "2026-11-24": {
+          "cny": 30.6,
           "usd": null
         }
       }
