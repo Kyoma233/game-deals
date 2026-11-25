@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-25T03:22:23.427Z",
+  "updated": "2026-11-25T13:53:13.890Z",
   "series": {
     "app:40700": {
       "title": "机械迷城-标准版",
@@ -4168,7 +4168,7 @@
       }
     },
     "app:2909400": {
-      "title": "最终幻想7 重生-标准版",
+      "title": "最终幻想7 重生-豪华版",
       "days": {
         "2026-11-16": {
           "cny": null,
@@ -8912,7 +8912,7 @@
       }
     },
     "app:755500": {
-      "title": "海贼王：寻秘世界-豪华版",
+      "title": "海贼王：寻秘世界-标准版",
       "days": {
         "2026-11-16": {
           "cny": 26.8,
@@ -13617,7 +13617,7 @@
       }
     },
     "app:775500": {
-      "title": "绯红结系-标准版",
+      "title": "绯红结系-终极版",
       "days": {
         "2026-11-17": {
           "cny": 49.2,
@@ -16158,7 +16158,7 @@
       }
     },
     "app:2853730": {
-      "title": "碧海黑帆-豪华版 Year 3(Uplay版)",
+      "title": "碧海黑帆-高级版 Year 3(Uplay版)",
       "days": {
         "2026-11-17": {
           "cny": 21.8,
@@ -16877,7 +16877,7 @@
       }
     },
     "app:2144740": {
-      "title": "幽灵行者2-豪华版",
+      "title": "幽灵行者2-标准版",
       "days": {
         "2026-11-17": {
           "cny": 33.6,
@@ -24145,6 +24145,10 @@
         "2026-11-24": {
           "cny": 69,
           "usd": null
+        },
+        "2026-11-25": {
+          "cny": 69,
+          "usd": null
         }
       }
     },
@@ -27453,7 +27457,7 @@
       }
     },
     "app:920210": {
-      "title": "乐高星球大战：天行者传奇-DLC-角色收集包 1 & 2",
+      "title": "乐高星球大战：天行者传奇-DLC-角色收集包1",
       "days": {
         "2026-11-24": {
           "cny": 7.8,
@@ -28011,6 +28015,222 @@
       "days": {
         "2026-11-25": {
           "cny": 148.5,
+          "usd": null
+        }
+      }
+    },
+    "app:1289670": {
+      "title": "EA Play",
+      "days": {
+        "2026-11-25": {
+          "cny": 7.6,
+          "usd": null
+        }
+      }
+    },
+    "app:5347440": {
+      "title": "Deadshift",
+      "days": {
+        "2026-11-25": {
+          "cny": 19.68,
+          "usd": null
+        }
+      }
+    },
+    "app:5492190": {
+      "title": "Before it Falls",
+      "days": {
+        "2026-11-25": {
+          "cny": 20,
+          "usd": null
+        }
+      }
+    },
+    "app:5057800": {
+      "title": "When Chests Rain Tons of Loot",
+      "days": {
+        "2026-11-25": {
+          "cny": 22.5,
+          "usd": null
+        }
+      }
+    },
+    "app:5482210": {
+      "title": "Hide & Chisel",
+      "days": {
+        "2026-11-25": {
+          "cny": 18.75,
+          "usd": null
+        }
+      }
+    },
+    "app:5172860": {
+      "title": "亡灵苏生",
+      "days": {
+        "2026-11-25": {
+          "cny": 24.65,
+          "usd": null
+        }
+      }
+    },
+    "app:5049560": {
+      "title": "Alone at  School:Christmas",
+      "days": {
+        "2026-11-25": {
+          "cny": 19.8,
+          "usd": null
+        }
+      }
+    },
+    "app:4250810": {
+      "title": "Rivendale",
+      "days": {
+        "2026-11-25": {
+          "cny": 22.4,
+          "usd": null
+        }
+      }
+    },
+    "app:4809500": {
+      "title": "Hop 'n' Karty",
+      "days": {
+        "2026-11-25": {
+          "cny": 13.5,
+          "usd": null
+        }
+      }
+    },
+    "app:5572500": {
+      "title": "东方白泽赛车 - Touhou Sukusuku Racing",
+      "days": {
+        "2026-11-25": {
+          "cny": 19.8,
+          "usd": null
+        }
+      }
+    },
+    "app:5531610": {
+      "title": "GBald",
+      "days": {
+        "2026-11-25": {
+          "cny": 3,
+          "usd": null
+        }
+      }
+    },
+    "app:4116400": {
+      "title": "Sunstone of Time",
+      "days": {
+        "2026-11-25": {
+          "cny": 53.6,
+          "usd": null
+        }
+      }
+    },
+    "app:5196730": {
+      "title": "Eldwyn's Dungeon Academy",
+      "days": {
+        "2026-11-25": {
+          "cny": 19.8,
+          "usd": null
+        }
+      }
+    },
+    "app:5570360": {
+      "title": "Mischka Cars",
+      "days": {
+        "2026-11-25": {
+          "cny": 15.2,
+          "usd": null
+        }
+      }
+    },
+    "app:3972980": {
+      "title": "Mirklurk: Every Step Matters",
+      "days": {
+        "2026-11-25": {
+          "cny": 35,
+          "usd": null
+        }
+      }
+    },
+    "app:3911490": {
+      "title": "移形改命 - Forge the Fates",
+      "days": {
+        "2026-11-25": {
+          "cny": 30,
+          "usd": null
+        }
+      }
+    },
+    "app:5029630": {
+      "title": "今天的冒险者公会也很和平",
+      "days": {
+        "2026-11-25": {
+          "cny": 13.3,
+          "usd": null
+        }
+      }
+    },
+    "app:4779290": {
+      "title": "Meme Paint",
+      "days": {
+        "2026-11-25": {
+          "cny": 4.2,
+          "usd": null
+        }
+      }
+    },
+    "app:4382960": {
+      "title": "Snackrifice",
+      "days": {
+        "2026-11-25": {
+          "cny": 24.65,
+          "usd": null
+        }
+      }
+    },
+    "app:4654060": {
+      "title": "Mellow's Garden",
+      "days": {
+        "2026-11-25": {
+          "cny": 13.2,
+          "usd": null
+        }
+      }
+    },
+    "app:5058440": {
+      "title": "Matryoshka",
+      "days": {
+        "2026-11-25": {
+          "cny": 5,
+          "usd": null
+        }
+      }
+    },
+    "app:5035420": {
+      "title": "Sia Desktop Pet",
+      "days": {
+        "2026-11-25": {
+          "cny": 17.1,
+          "usd": null
+        }
+      }
+    },
+    "app:5211000": {
+      "title": "Dough Not Waste",
+      "days": {
+        "2026-11-25": {
+          "cny": 10.5,
+          "usd": null
+        }
+      }
+    },
+    "app:413150": {
+      "title": "Stardew Valley",
+      "days": {
+        "2026-11-25": {
+          "cny": 19.9,
           "usd": null
         }
       }
