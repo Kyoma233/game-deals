@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-26T08:00:28.956Z",
+  "updated": "2026-11-26T20:55:33.460Z",
   "series": {
     "app:40700": {
       "title": "机械迷城-标准版",
@@ -4356,7 +4356,7 @@
       }
     },
     "app:2909400": {
-      "title": "最终幻想7 重生-豪华版",
+      "title": "最终幻想7 重生-标准版",
       "days": {
         "2026-11-16": {
           "cny": null,
@@ -5324,7 +5324,7 @@
       }
     },
     "app:412020": {
-      "title": "地铁：离乡-黄金版",
+      "title": "地铁：离乡-标准版",
       "days": {
         "2026-11-16": {
           "cny": null,
@@ -6088,7 +6088,7 @@
       }
     },
     "app:1346010": {
-      "title": "RiMS Racing-日本制造商豪华版",
+      "title": "RiMS Racing-欧洲制造商豪华版",
       "days": {
         "2026-11-16": {
           "cny": 132.8,
@@ -9384,7 +9384,7 @@
       }
     },
     "app:755500": {
-      "title": "海贼王：寻秘世界-标准版",
+      "title": "海贼王：寻秘世界-豪华版",
       "days": {
         "2026-11-16": {
           "cny": 26.8,
@@ -11959,6 +11959,10 @@
         "2026-11-17": {
           "cny": 11.96,
           "usd": null
+        },
+        "2026-11-26": {
+          "cny": 11.96,
+          "usd": null
         }
       }
     },
@@ -12012,6 +12016,10 @@
           "usd": null
         },
         "2026-11-17": {
+          "cny": 14.04,
+          "usd": null
+        },
+        "2026-11-26": {
           "cny": 14.04,
           "usd": null
         }
@@ -14333,7 +14341,7 @@
       }
     },
     "app:775500": {
-      "title": "绯红结系-标准版",
+      "title": "绯红结系-终极版",
       "days": {
         "2026-11-17": {
           "cny": 49.2,
@@ -20634,6 +20642,10 @@
           "usd": null
         },
         "2026-11-23": {
+          "cny": 186,
+          "usd": null
+        },
+        "2026-11-26": {
           "cny": 186,
           "usd": null
         }
@@ -30326,6 +30338,384 @@
       "days": {
         "2026-11-26": {
           "cny": 37,
+          "usd": null
+        }
+      }
+    },
+    "app:4783980": {
+      "title": "GUNBOAT-8",
+      "days": {
+        "2026-11-26": {
+          "cny": 31.5,
+          "usd": null
+        }
+      }
+    },
+    "app:4255780": {
+      "title": "No Mercy",
+      "days": {
+        "2026-11-26": {
+          "cny": 35,
+          "usd": null
+        }
+      }
+    },
+    "app:4084400": {
+      "title": "Astral Throne II: Age of the Phoenix",
+      "days": {
+        "2026-11-26": {
+          "cny": 62.99,
+          "usd": null
+        }
+      }
+    },
+    "app:4666520": {
+      "title": "Fishing Nooks: Beaver's Pond",
+      "days": {
+        "2026-11-26": {
+          "cny": 28.8,
+          "usd": null
+        }
+      }
+    },
+    "app:5571360": {
+      "title": "Paranormal Cleaner",
+      "days": {
+        "2026-11-26": {
+          "cny": 19.8,
+          "usd": null
+        }
+      }
+    },
+    "app:5127590": {
+      "title": "Dear Gardener",
+      "days": {
+        "2026-11-26": {
+          "cny": 63,
+          "usd": null
+        }
+      }
+    },
+    "app:5497300": {
+      "title": "Fruit Frenzy Clicker",
+      "days": {
+        "2026-11-26": {
+          "cny": 12.35,
+          "usd": null
+        }
+      }
+    },
+    "app:4725220": {
+      "title": "Slice of Fortune",
+      "days": {
+        "2026-11-26": {
+          "cny": 15.2,
+          "usd": null
+        }
+      }
+    },
+    "app:5578420": {
+      "title": "FINAL CUT",
+      "days": {
+        "2026-11-26": {
+          "cny": 25.2,
+          "usd": null
+        }
+      }
+    },
+    "app:3039960": {
+      "title": "Near The Sun",
+      "days": {
+        "2026-11-26": {
+          "cny": 50.15,
+          "usd": null
+        }
+      }
+    },
+    "app:4987170": {
+      "title": "Shole Soccer",
+      "days": {
+        "2026-11-26": {
+          "cny": 18.7,
+          "usd": null
+        }
+      }
+    },
+    "app:5555020": {
+      "title": "Backgammon",
+      "days": {
+        "2026-11-26": {
+          "cny": 31.5,
+          "usd": null
+        }
+      }
+    },
+    "app:4773720": {
+      "title": "A Real Life Party",
+      "days": {
+        "2026-11-26": {
+          "cny": 14.24,
+          "usd": null
+        }
+      }
+    },
+    "app:4179700": {
+      "title": "Galactic Arms",
+      "days": {
+        "2026-11-26": {
+          "cny": 68.4,
+          "usd": null
+        }
+      }
+    },
+    "app:4118380": {
+      "title": "100 Library Cats",
+      "days": {
+        "2026-11-26": {
+          "cny": 9.9,
+          "usd": null
+        }
+      }
+    },
+    "app:4903220": {
+      "title": "TaskBound Saga",
+      "days": {
+        "2026-11-26": {
+          "cny": 10.4,
+          "usd": null
+        }
+      }
+    },
+    "app:3479310": {
+      "title": "The Pogo Witch",
+      "days": {
+        "2026-11-26": {
+          "cny": 19.8,
+          "usd": null
+        }
+      }
+    },
+    "app:5463290": {
+      "title": "Train Station Staff Simulator",
+      "days": {
+        "2026-11-26": {
+          "cny": 48.8,
+          "usd": null
+        }
+      }
+    },
+    "app:5446860": {
+      "title": "Eyelord Returns",
+      "days": {
+        "2026-11-26": {
+          "cny": 22.4,
+          "usd": null
+        }
+      }
+    },
+    "app:4364740": {
+      "title": "These Eyes",
+      "days": {
+        "2026-11-26": {
+          "cny": 11.7,
+          "usd": null
+        }
+      }
+    },
+    "app:4947630": {
+      "title": "7 Shifts in Subway",
+      "days": {
+        "2026-11-26": {
+          "cny": 30.6,
+          "usd": null
+        }
+      }
+    },
+    "app:4640550": {
+      "title": "Street Food Restaurant Owner",
+      "days": {
+        "2026-11-26": {
+          "cny": 27.2,
+          "usd": null
+        }
+      }
+    },
+    "app:5067510": {
+      "title": "Shiver Slopes",
+      "days": {
+        "2026-11-26": {
+          "cny": 12,
+          "usd": null
+        }
+      }
+    },
+    "app:916730": {
+      "title": "猫咪机器人-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 4.95,
+          "usd": null
+        }
+      }
+    },
+    "app:20900": {
+      "title": "巫师加强版（导演剪辑）-标准版(Steam版)",
+      "days": {
+        "2026-11-26": {
+          "cny": 7.35,
+          "usd": null
+        }
+      }
+    },
+    "app:686200": {
+      "title": "破门而入：行动小队-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 8.4,
+          "usd": null
+        }
+      }
+    },
+    "app:539470": {
+      "title": "警察故事-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 11.4,
+          "usd": null
+        }
+      }
+    },
+    "app:1097350": {
+      "title": "诡野西部-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 22.2,
+          "usd": null
+        }
+      }
+    },
+    "app:20920": {
+      "title": "巫师2：国王刺客加强版-标准版(Steam版)",
+      "days": {
+        "2026-11-26": {
+          "cny": 14.85,
+          "usd": null
+        }
+      }
+    },
+    "app:1242980": {
+      "title": "KeyWe-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 12,
+          "usd": null
+        }
+      }
+    },
+    "app:248610": {
+      "title": "破门而入-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 11.4,
+          "usd": null
+        }
+      }
+    },
+    "app:447150": {
+      "title": "猿人逃出-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 11.6,
+          "usd": null
+        }
+      }
+    },
+    "app:331690": {
+      "title": "交错之魂-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 11.6,
+          "usd": null
+        }
+      }
+    },
+    "app:1154810": {
+      "title": "实习生大闹公司-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 18,
+          "usd": null
+        }
+      }
+    },
+    "app:1370050": {
+      "title": "黄泉之路-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 15.2,
+          "usd": null
+        }
+      }
+    },
+    "app:1612770": {
+      "title": "铁路先驱-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 26,
+          "usd": null
+        }
+      }
+    },
+    "app:973760": {
+      "title": "巫师之昆特牌：王权的陨落-标准版(Steam版)",
+      "days": {
+        "2026-11-26": {
+          "cny": 19.6,
+          "usd": null
+        }
+      }
+    },
+    "app:1282730": {
+      "title": "循环英雄-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 11.6,
+          "usd": null
+        }
+      }
+    },
+    "app:1164940": {
+      "title": "海参2-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 26,
+          "usd": null
+        }
+      }
+    },
+    "app:557340": {
+      "title": "我的朋友佩德罗-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 15.2,
+          "usd": null
+        }
+      }
+    },
+    "app:683320": {
+      "title": "GRIS-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 11.6,
+          "usd": null
+        }
+      }
+    },
+    "app:311690": {
+      "title": "挺进地牢-标准版",
+      "days": {
+        "2026-11-26": {
+          "cny": 11.6,
           "usd": null
         }
       }
